@@ -3,7 +3,7 @@ Welcome to my Machine Learning Portfolio! This repository showcases a collection
 Each project in this portfolio is carefully documented and includes Jupyter notebooks that detail the entire machine learning workflow: from preprocessing and visualization to model training and evaluation.
 
 ## Key Features:
-- Projects covering various machine learning techniques including supervised learning, unsupervised learning, reinforcement learning and deep learning.
+- Projects covering various machine learning techniques including supervised learning, unsupervised learning, and reinforcement learning as well as deep learning are expected to arrive soon.
 - Detailed analysis and visualizations that provide insights into the data and model performance.
 - Application of different algorithms to real-world datasets to solve practical problems.
 
