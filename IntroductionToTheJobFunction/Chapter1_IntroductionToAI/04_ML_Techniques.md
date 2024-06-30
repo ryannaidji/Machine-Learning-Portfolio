@@ -11,6 +11,10 @@ In the case of supervised learning, the system observes input-output pairs and l
 - The input data and the corresponding output data (also called classes or target variables) are known (also referred to as labeled).
 - They are grouped into a dataset called training data, which is presented as pairs \((x_i, y_i)\) with \(i < N\) and \(N\) being the number of samples.
 
+### Example of Supervised Learning
+
+![Supervised Learning example](SL_example.png)
+
 ### Applications of Supervised Learning
 
 - **Computer Vision**: Detecting a pathology in an X-ray image.
@@ -29,7 +33,7 @@ Contrary to supervised learning, in the case of unsupervised learning, the outpu
 
 ### Example of Unsupervised Learning
 
-Some smartphones use unsupervised learning to automatically organize photos. The phone can identify the same person in photos or find similar locations to sort them based on these criteria, which is clustering based on certain criteria.
+![Unsupervised Learning example](UL_example.png)
 
 ### Applications of Unsupervised Learning
 
