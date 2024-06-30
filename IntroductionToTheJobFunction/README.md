@@ -34,7 +34,17 @@ This directory contains courses and exercises that introduce the different funct
     - Description of Quantitative Variables
     - Graphical Representation of Quantitative Data
 
-## Chapter 4: Supervised Learning
+## Chapter 4: Data Preprocessing
+
+1. **Introduction**
+2. **Data Cleaning**
+    - Missing Data
+    - Outliers
+3. **Normalization & Standardization**
+4. **Data Encoding**
+5. **Feature Extraction and Selection**
+
+## Chapter 5: Supervised Learning
 
 1. **Machine Learning Techniques**
 2. **Supervised Learning: Classification & Regression**
@@ -48,7 +58,7 @@ This directory contains courses and exercises that introduce the different funct
     - Cross-Validation
 5. **Underfitting and Overfitting**
 
-## Chapter 5: Unsupervised Learning
+## Chapter 6: Unsupervised Learning
 
 1. **Introduction: Unsupervised Machine Learning**
 2. **Clustering**
