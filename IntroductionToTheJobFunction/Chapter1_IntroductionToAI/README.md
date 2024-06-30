@@ -6,9 +6,6 @@ This chapter provides a foundational understanding of Artificial Intelligence (A
 
 1. [Definition and History of AI](#definition-and-history-of-ai)
 2. [Artificial Intelligence VS Machine Learning VS Deep Learning](#artificial-intelligence-vs-machine-learning-vs-deep-learning)
-    - [Artificial Intelligence](#artificial-intelligence)
-    - [Machine Learning](#machine-learning)
-    - [Deep Learning](#deep-learning)
 3. [Machine Learning Paradigms](#machine-learning-paradigms)
 4. [Machine Learning Techniques](#machine-learning-techniques)
 5. [Applications of AI](#applications-of-ai)
@@ -21,18 +18,6 @@ This chapter provides a foundational understanding of Artificial Intelligence (A
 ## Artificial Intelligence VS Machine Learning VS Deep Learning
 
 [Link to detailed file](./02_AI_vs_ML_vs_DL.md)
-
-### Artificial Intelligence
-
-[Link to detailed file](./02_01_Artificial_Intelligence.md)
-
-### Machine Learning
-
-[Link to detailed file](./02_02_Machine_Learning.md)
-
-### Deep Learning
-
-[Link to detailed file](./02_03_Deep_Learning.md)
 
 ## Machine Learning Paradigms
 
