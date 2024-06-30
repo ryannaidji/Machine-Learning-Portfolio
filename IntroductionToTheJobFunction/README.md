@@ -2,7 +2,7 @@
 
 This directory contains courses and exercises that introduce the different functions and roles in the field of AI and machine learning. You will find information on fundamental concepts, techniques, and applications of AI, as well as the resources needed to develop AI projects.
 
-## Chapter 1: Introduction to AI
+## Chapter 1: Introduction to AI :white_check_mark:
 
 1. **Definition and History of AI**
 2. **Artificial Intelligence VS Machine Learning VS Deep Learning**
@@ -11,7 +11,7 @@ This directory contains courses and exercises that introduce the different funct
 5. **Applications of AI**
 6. **Ethics and AI**
 
-## Chapter 2: Resources for Developing an AI Project
+## Chapter 2: Resources for Developing an AI Project :white_check_mark:
 
 1. **Computing Resources**
     - Programming Language
@@ -19,7 +19,7 @@ This directory contains courses and exercises that introduce the different funct
 2. **Bibliographic Resources**
 3. **Steps of an AI Project**
 
-## Chapter 3: Introduction to Descriptive Analysis and Visualization
+## Chapter 3: Introduction to Descriptive Analysis and Visualization :white_check_mark:
 
 1. **Data**
     - Terminology
@@ -34,7 +34,7 @@ This directory contains courses and exercises that introduce the different funct
     - Description of Quantitative Variables
     - Graphical Representation of Quantitative Data
 
-## Chapter 4: Data Preprocessing
+## Chapter 4: Data Preprocessing :white_check_mark:
 
 1. **Introduction**
 2. **Data Cleaning**
@@ -44,7 +44,7 @@ This directory contains courses and exercises that introduce the different funct
 4. **Data Encoding**
 5. **Feature Extraction and Selection**
 
-## Chapter 5: Supervised Learning
+## Chapter 5: Supervised Learning :white_check_mark:
 
 1. **Machine Learning Techniques**
 2. **Supervised Learning: Classification & Regression**
@@ -58,7 +58,7 @@ This directory contains courses and exercises that introduce the different funct
     - Cross-Validation
 5. **Underfitting and Overfitting**
 
-## Chapter 6: Unsupervised Learning
+## Chapter 6: Unsupervised Learning :white_check_mark:
 
 1. **Introduction: Unsupervised Machine Learning and Clustering**
 2. **K-means Algorithm**
