@@ -4,17 +4,15 @@ This directory contains courses and exercises that introduce the different funct
 
 ## Chapter 1: Introduction to AI
 
-1. **Definition of AI**
-2. **History of AI**
-3. **Artificial Intelligence / Machine Learning / Deep Learning**
+1. **Definition and History of AI**
+2. **Artificial Intelligence VS Machine Learning VS Deep Learning**
     - Artificial Intelligence
     - Machine Learning
     - Deep Learning
-4. **Expert Systems**
-5. **Machine Learning Paradigms**
-6. **Machine Learning Techniques**
-7. **Applications of AI**
-8. **Ethics and AI**
+3. **Machine Learning Paradigms**
+4. **Machine Learning Techniques**
+5. **Applications of AI**
+6. **Ethics and AI**
 
 ## Chapter 2: Resources for Developing an AI Project
 
