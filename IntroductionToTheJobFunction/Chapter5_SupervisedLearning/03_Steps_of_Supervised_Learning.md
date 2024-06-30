@@ -45,11 +45,11 @@ The cost function, also known as the loss function, measures the difference betw
 ### Common Cost Functions
 - **Mean Squared Error (MSE)**: Used for regression tasks.
   
-  $\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$
+  $$\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
   
 - **Cross-Entropy Loss**: Used for classification tasks.
   
-  $\text{Cross-Entropy Loss} = -\frac{1}{n} \sum_{i=1}^{n} [y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)]$
+  $$\text{Cross-Entropy Loss} = -\frac{1}{n} \sum_{i=1}^{n} [y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)]$$
   
 ### Importance of Cost Function
 - The cost function helps guide the learning process by indicating how well the model is performing.
@@ -84,33 +84,33 @@ Once the model is trained, it is essential to evaluate its performance using app
   
 - **Mean Squared Error (MSE)**: Measures the average of the squares of the errors.
   
-  $\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$
+  $$\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
   
 - **Root Mean Squared Error (RMSE)**: Square root of the mean of the squared errors.
   
-  $\text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}$
+  $$\text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}$$
   
 - **R-squared (R²)**: Represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model.
   
-  $R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2}$
+  $$R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2}$$
   
 
 ### Classification Metrics
 - **Accuracy**: Measures the proportion of true results (both true positives and true negatives) among the total number of cases examined.
   
-  $\text{Accuracy} = \frac{\text{True Positives} + \text{True Negatives}}{\text{Total Number of Samples}}$
+  $$\text{Accuracy} = \frac{\text{True Positives} + \text{True Negatives}}{\text{Total Number of Samples}}$$
   
 - **Precision**: Measures the proportion of true positives among the total number of positive predictions.
   
-  $\text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}$
+  $$\text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}$$
   
 - **Recall (Sensitivity)**: Measures the proportion of true positives among the total number of actual positives.
   
-  $\text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}$
+  $$\text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}$$
   
 - **F1 Score**: Harmonic mean of precision and recall.
   
-  $F1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}$
+  $$F1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}$$
   
 - **Confusion Matrix**: A table used to describe the performance of a classification model on a set of test data for which the true values are known.
 
