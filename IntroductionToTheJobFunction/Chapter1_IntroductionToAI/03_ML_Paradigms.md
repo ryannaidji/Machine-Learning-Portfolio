@@ -17,7 +17,7 @@ Une donnée est :
 - **Instance** : Une instance caractérisée par un ensemble d'attributs (terminologie orientée objet en informatique).
 - **Point ou Vecteur** : Un point ou un vecteur caractérisé par ses coordonnées dans un espace vectoriel (terminologie algébrique).
 
-Les données sont généralement représentées sous la forme d'une matrice à N lignes représentant les individus et de K colonnes correspondant aux variables. On note \( \mathbf{M} \) la matrice de dimension (N, K) contenant les données
+Les données sont généralement représentées sous la forme d'une matrice à $N$ lignes représentant les individus et de $K$ colonnes correspondant aux variables. On note $M$ la matrice de dimension (N, K) contenant les données
 
 ## La Prise de Décision
 
