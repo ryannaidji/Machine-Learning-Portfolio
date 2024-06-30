@@ -80,7 +80,7 @@ Once the model is trained, it is essential to evaluate its performance using app
 ### Regression Metrics
 - **Mean Absolute Error (MAE)**: Measures the average magnitude of the errors in a set of predictions, without considering their direction.
   
-  $\text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|$
+  $$\text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|$$
   
 - **Mean Squared Error (MSE)**: Measures the average of the squares of the errors.
   
