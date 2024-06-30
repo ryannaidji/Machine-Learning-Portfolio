@@ -32,4 +32,4 @@ This chapter provides an in-depth look at the preprocessing steps necessary for 
 
 ## Feature Extraction and Selection
 
-[Link to detailed notebook](./05_Feature_Extraction_Selection.ipynb)
+[Link to detailed file](./05_Feature_Extraction_Selection.md)
