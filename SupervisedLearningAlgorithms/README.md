@@ -2,11 +2,10 @@
 
 This directory contains courses and exercises introducing various concepts and techniques of supervised learning. You will find information on fundamental concepts, algorithms, and practical applications of supervised learning.
 
-## Chapter 1: Introduction to Supervised Learning
+## Chapter 1: Introduction to Supervised Learning :white_check_mark:
 
-1. **General Introduction to Supervised Learning**
+1. **General Introduction to Machine Learning and Supervised Learning**
 2. **Basic Concepts**
-3. **Applications of Supervised Learning**
 
 ## Chapter 2: Regression and Linear Modeling
 
