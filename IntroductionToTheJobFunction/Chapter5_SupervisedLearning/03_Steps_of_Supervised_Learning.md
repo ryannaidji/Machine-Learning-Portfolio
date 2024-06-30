@@ -45,7 +45,7 @@ The cost function, also known as the loss function, measures the difference betw
 ### Common Cost Functions
 - **Mean Squared Error (MSE)**: Used for regression tasks.
   
-  $\text{MSE} = \frac{1}{n} \sum^n_{i=1} (y_i - \hat{y}_i)^2$
+  $\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$
   
 - **Cross-Entropy Loss**: Used for classification tasks.
   
