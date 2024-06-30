@@ -14,7 +14,7 @@ This chapter provides an in-depth look at the preprocessing steps necessary for 
 
 ## Introduction
 
-[Link to detailed notebook](./01_Introduction.ipynb)
+[Link to detailed file](./01_Introduction.md)
 
 ## Data Cleaning
 ### Missing Data
