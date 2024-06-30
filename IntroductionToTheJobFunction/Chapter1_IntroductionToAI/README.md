@@ -18,7 +18,7 @@ This chapter provides a foundational understanding of Artificial Intelligence (A
 
 ## Definition of AI
 
-[Link to detailed file](./Definition_of_AI.md)
+[Link to detailed file](./1. Definition_of_AI.md)
 
 ## History of AI
 
