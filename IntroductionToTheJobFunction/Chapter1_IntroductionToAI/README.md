@@ -36,5 +36,3 @@ This chapter provides a foundational understanding of Artificial Intelligence (A
 [Link to detailed file](./06_Ethics_and_AI.md)
 
 ---
-
-Thank you for reviewing this module on the introduction to AI. For any questions or suggestions, you can contact me at [ryan.naidji@gmail.com](mailto:ryan.naidji@gmail.com).
