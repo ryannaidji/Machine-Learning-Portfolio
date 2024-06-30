@@ -6,9 +6,6 @@ This directory contains courses and exercises that introduce the different funct
 
 1. **Definition and History of AI**
 2. **Artificial Intelligence VS Machine Learning VS Deep Learning**
-    - Artificial Intelligence
-    - Machine Learning
-    - Deep Learning
 3. **Machine Learning Paradigms**
 4. **Machine Learning Techniques**
 5. **Applications of AI**
