@@ -92,9 +92,7 @@ Once the model is trained, it is essential to evaluate its performance using app
   
 - **R-squared (R²)**: Represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model.
   
-$$
-R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2}
-$$
+$$R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}i)^2}{\sum{i=1}^{n} (y_i - \bar{y})^2}$$
 
 ### Classification Metrics
 - **Accuracy**: Measures the proportion of true results (both true positives and true negatives) among the total number of cases examined.
