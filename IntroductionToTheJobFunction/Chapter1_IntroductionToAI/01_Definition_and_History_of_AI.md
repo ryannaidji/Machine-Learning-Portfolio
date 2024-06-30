@@ -15,7 +15,7 @@
 > **Artificial Intelligence (AI)**, a set of theories and techniques implemented to create machines capable of simulating human intelligence. It aims to reproduce multiple facets of human intelligence, such as understanding language, recognizing patterns, solving problems, and the ability to learn.
 
 ## My Definition
-**Artificial Intelligence (AI)** refers to the ability of a computing agent or any other computer program to observe, understand, interact, and make decisions.
+**Artificial Intelligence (AI)** refers to the ability of a computing agent or any other computer program to observe, understand, learn, interact, and make decisions.
 
 # 1.2 History of AI
 
