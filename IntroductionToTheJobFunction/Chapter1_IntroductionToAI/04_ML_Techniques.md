@@ -1,6 +1,6 @@
 # 4. Machine Learning Techniques
 
-## Hierarchical Diagram of Learning Types
+## Diagram of Learning Types
 
 ![Machine Learning Techniques](ML_techniques.png)
 
