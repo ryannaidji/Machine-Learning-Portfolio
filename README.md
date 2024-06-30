@@ -22,7 +22,7 @@ I am a student in machine learning (ML) and artificial intelligence (AI) at Miam
 12. [Synthesis Project](#synthesis-project)
 13. [Final Project](#final-project)
 
-## - [X] Introduction to the Job Function
+## - [x] Introduction to the Job Function
 
 This directory contains courses and exercises that introduce the different functions and roles in the field of AI and ML.
 
