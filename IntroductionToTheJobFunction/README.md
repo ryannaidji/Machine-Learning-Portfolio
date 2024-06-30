@@ -60,13 +60,12 @@ This directory contains courses and exercises that introduce the different funct
 
 ## Chapter 6: Unsupervised Learning
 
-1. **Introduction: Unsupervised Machine Learning**
-2. **Clustering**
-3. **K-means Algorithm**
-4. **Evaluating Clustering Quality**
+1. **Introduction: Unsupervised Machine Learning and Clustering**
+2. **K-means Algorithm**
+3. **Evaluating Clustering Quality**
     - Intra-cluster Inertia
     - Inter-cluster Inertia
-5. **Determining the Optimal Number of Clusters**
+4. **Determining the Optimal Number of Clusters**
 
 ---
 
