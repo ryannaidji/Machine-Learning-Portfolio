@@ -2,13 +2,13 @@
 
 This directory contains courses and exercises introducing various concepts and techniques of supervised learning. You will find information on fundamental concepts, algorithms, and practical applications of supervised learning.
 
-## Chapter 1: Introduction to Supervised Learning :white_check_mark:
+## Chapter 1: Introduction to Supervised Learning
 
 1. **General Introduction to Supervised Learning**
 2. **Basic Concepts**
 3. **Applications of Supervised Learning**
 
-## Chapter 2: Regression and Linear Modeling :white_check_mark:
+## Chapter 2: Regression and Linear Modeling
 
 1. **Linear Regression**
     - Concept
@@ -20,7 +20,7 @@ This directory contains courses and exercises introducing various concepts and t
     - Elastic Net
     - Preventing Overfitting
 
-## Chapter 3: Classification Algorithms :white_check_mark:
+## Chapter 3: Classification Algorithms
 
 1. **Overview of Classification Methods**
 2. **Decision Trees**
@@ -30,13 +30,13 @@ This directory contains courses and exercises introducing various concepts and t
     - Principles
     - Application Examples
 
-## Chapter 4: Model Selection and Evaluation :white_check_mark:
+## Chapter 4: Model Selection and Evaluation
 
 1. **Model Selection Techniques**
 2. **Cross-Validation**
 3. **Performance Metrics**
 
-## Chapter 5: Advanced Techniques in Supervised Learning :white_check_mark:
+## Chapter 5: Advanced Techniques in Supervised Learning
 
 1. **Ensemble Methods**
     - Bagging
@@ -46,7 +46,7 @@ This directory contains courses and exercises introducing various concepts and t
     - Dimensionality Reduction
     - Applications
 
-## Chapter 6: Practical Applications :white_check_mark:
+## Chapter 6: Practical Applications
 
 1. **Using Spark MLlib for Large-Scale Supervised Learning**
 2. **Microsoft Azure Tools for Machine Learning**
