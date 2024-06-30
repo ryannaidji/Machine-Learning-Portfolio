@@ -22,11 +22,9 @@ I am a student in machine learning (ML) and artificial intelligence (AI) at Miam
 12. [Synthesis Project](#synthesis-project)
 13. [Final Project](#final-project)
 
-## Introduction to the Job Function
+## Introduction to the Job Function :white_check_mark:
 
 This directory contains courses and exercises that introduce the different functions and roles in the field of AI and ML.
-
-- Status: [x]
 
 [See the Introduction to the Job Function directory](./IntroductionToTheJobFunction)
 
