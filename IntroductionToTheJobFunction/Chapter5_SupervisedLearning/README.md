@@ -6,7 +6,7 @@ This chapter provides an in-depth look at supervised learning techniques, includ
 
 1. [Machine Learning Techniques](./01_Machine_Learning_Techniques.md)
 2. [Supervised Learning: Classification & Regression](./02_Supervised_Learning_Classification_Regression.ipynb)
-3. [Steps of Supervised Learning](./03_Steps_of_Supervised_Learning.ipynb)
+3. [Steps of Supervised Learning](./03_Steps_of_Supervised_Learning.md)
     - Data
     - Model
     - Cost Function
