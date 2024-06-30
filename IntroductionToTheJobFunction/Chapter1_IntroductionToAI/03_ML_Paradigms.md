@@ -1,44 +1,44 @@
-# 3. Paradigme d'Apprentissage Machine
+# 3. Machine Learning Paradigm
 
-## Définition de l'Apprentissage Machine
+## Definition of Machine Learning
 
-L'apprentissage machine est un ensemble de méthodes permettant de construire un modèle de la réalité à partir de données, soit en améliorant un modèle existant moins général, soit en créant un nouveau modèle représentatif de nouvelles données.
+Machine learning is a set of methods that allow constructing a model of reality from data, either by improving an existing less general model or by creating a new model representative of new data.
 
-- **Modèle de Réalité** : La construction du modèle dépend des données à analyser. Les paramètres du modèle sont déterminés durant la phase d'apprentissage en utilisant un algorithme spécifique.
-- **Prise de Décision** : Les modèles servent à prendre des décisions basées sur les données fournies.
+- **Model of Reality**: The construction of the model depends on the data to be analyzed. The parameters of the model are determined during the learning phase using a specific algorithm.
+- **Decision Making**: Models are used to make decisions based on the provided data.
 
-## Les Données
+![Paradigm](AI_Paradigm.png)
 
-Le terme "donnée" se définit de différentes façons dans la littérature selon les domaines et les champs d'application. 
+## Data
 
-Une donnée est :
-- **Enregistrement** : Un enregistrement caractérisé par un ensemble de champs (terminologie des bases de données).
-- **Individu** : Un individu défini par un ensemble de caractéristiques, de paramètres ou de variables (terminologie statistique).
-- **Instance** : Une instance caractérisée par un ensemble d'attributs (terminologie orientée objet en informatique).
-- **Point ou Vecteur** : Un point ou un vecteur caractérisé par ses coordonnées dans un espace vectoriel (terminologie algébrique).
+The term "data" is defined in different ways in the literature depending on the fields and areas of application.
 
-Les données sont généralement représentées sous la forme d'une matrice à $N$ lignes représentant les individus et de $K$ colonnes correspondant aux variables. On note $M$ la matrice de dimension $(N, K)$ contenant les données.
+Data is:
+- **Record**: A record characterized by a set of fields (database terminology).
+- **Individual**: An individual defined by a set of characteristics, parameters, or variables (statistical terminology).
+- **Instance**: An instance characterized by a set of attributes (object-oriented terminology in computer science).
+- **Point or Vector**: A point or vector characterized by its coordinates in a vector space (algebraic terminology).
 
-## La Prise de Décision
+Data is generally represented in the form of a matrix with $N$ rows representing individuals and $K$ columns corresponding to variables. We denote $M$ as the matrix of dimension $(N, K)$ containing the data.
 
-À partir des données d’entrée, nous allons prendre des décisions. La décision à prendre dépend essentiellement de la problématique de l'apprentissage machine à résoudre.
+## Decision
 
-### Exemples de Prise de Décision
+From the input data, we will make decisions. The decision to be made depends essentially on the machine learning problem to be solved.
 
-- **Médecine** : Décider de faire ou non une chirurgie à un patient.
-- **Jeu d'échecs** : Décider d’avancer ou non un pion dans un jeu d’échecs.
+### Examples of Decision Making
 
-Les données impliquent la décision à prendre. La décision est prise par un type de modèle.
+- **Medicine**: Deciding whether or not to perform surgery on a patient.
+- **Chess**: Deciding whether or not to move a pawn in a chess game.
 
-## Le Concept de Modèle
+Data implies the decision to be made. The decision is made by a type of model.
 
-Un modèle est la fonction qui permet de renvoyer une décision à partir des données d'entrée (données d'apprentissage = données d’entraînement).
+## Model
 
-### Importance du Modèle
+A model is the function that allows returning a decision based on input data (training data).
 
-- **Détermination du Modèle** : La détermination du modèle est une étape cruciale de l'apprentissage machine.
-- **Types de Modèles** : Il existe plusieurs modèles possibles dans la littérature, parmi lesquels on peut citer le modèle de Bayes et les réseaux de neurones.
+### Importance of the Model
+
+- **Model Determination**: Determining the model is a crucial step in machine learning.
+- **Types of Models**: There are several possible models in the literature, among which we can cite the Bayes model and neural networks.
 
 ---
-
-Merci de consulter ce module sur le paradigme d'apprentissage machine. Pour toute question ou suggestion, vous pouvez me contacter à [ryan.naidji@gmail.com](mailto:ryan.naidji@gmail.com).
