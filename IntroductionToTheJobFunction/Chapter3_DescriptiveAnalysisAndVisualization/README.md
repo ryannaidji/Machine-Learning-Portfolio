@@ -5,17 +5,17 @@ This chapter covers the fundamental concepts of data, types of variables, and ho
 ## Contents
 
 1. [Data](#data)
-    - [Terminology](#terminology)
-    - [Data Representation](#data-representation)
+    - Terminology
+    - Data Representation
 2. [Types of Variables](#types-of-variables)
-    - [Qualitative Variable](#qualitative-variable)
-    - [Quantitative Variable](#quantitative-variable)
+    - Qualitative Variable
+    - Quantitative Variable
 3. [Handling Qualitative Variables](#handling-qualitative-variables)
-    - [Description of Qualitative Variables](#description-of-qualitative-variables)
-    - [Graphical Representation of Qualitative Data](#graphical-representation-of-qualitative-data)
+    - Description of Qualitative Variables
+    - Graphical Representation of Qualitative Data
 4. [Handling Quantitative Variables](#handling-quantitative-variables)
-    - [Description of Quantitative Variables](#description-of-quantitative-variables)
-    - [Graphical Representation of Quantitative Data](#graphical-representation-of-quantitative-data)
+    - Description of Quantitative Variables
+    - Graphical Representation of Quantitative Data
 
 ## Data
 
