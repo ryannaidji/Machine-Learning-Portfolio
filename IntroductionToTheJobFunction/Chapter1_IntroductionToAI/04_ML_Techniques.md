@@ -65,5 +65,3 @@ Reinforcement learning is based on input data similar to those used in supervise
 - **Control**: A robot that learns to keep a stick in unstable balance, another that flips pancakes.
 
 ---
-
-Thank you for reviewing this module on machine learning techniques. For any questions or suggestions, you can contact me at [ryan.naidji@gmail.com](mailto:ryan.naidji@gmail.com).
