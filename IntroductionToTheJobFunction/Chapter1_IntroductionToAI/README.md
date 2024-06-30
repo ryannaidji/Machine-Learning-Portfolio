@@ -18,45 +18,47 @@ This chapter provides a foundational understanding of Artificial Intelligence (A
 
 ## Definition of AI
 
-[Link to detailed file](./Definition_of_AI.md)
+[Link to detailed file](./01_Definition_of_AI.md)
 
 ## History of AI
 
-[Link to detailed file](./History_of_AI.md)
+[Link to detailed file](./02_History_of_AI.md)
 
 ## Artificial Intelligence / Machine Learning / Deep Learning
 
+[Link to detailed file](./03_AI_ML_DL.md)
+
 ### Artificial Intelligence
 
-[Link to detailed file](./Artificial_Intelligence.md)
+[Link to detailed file](./03_01_Artificial_Intelligence.md)
 
 ### Machine Learning
 
-[Link to detailed file](./Machine_Learning.md)
+[Link to detailed file](./03_02_Machine_Learning.md)
 
 ### Deep Learning
 
-[Link to detailed file](./Deep_Learning.md)
+[Link to detailed file](./03_03_Deep_Learning.md)
 
 ## Expert Systems
 
-[Link to detailed file](./Expert_Systems.md)
+[Link to detailed file](./04_Expert_Systems.md)
 
 ## Machine Learning Paradigms
 
-[Link to detailed file](./Machine_Learning_Paradigms.md)
+[Link to detailed file](./05_ML_Paradigms.md)
 
 ## Machine Learning Techniques
 
-[Link to detailed file](./Machine_Learning_Techniques.md)
+[Link to detailed file](./06_ML_Techniques.md)
 
 ## Applications of AI
 
-[Link to detailed file](./Applications_of_AI.md)
+[Link to detailed file](./07_Applications_of_AI.md)
 
 ## Ethics and AI
 
-[Link to detailed file](./Ethics_and_AI.md)
+[Link to detailed file](./08_Ethics_and_AI.md)
 
 ---
 
