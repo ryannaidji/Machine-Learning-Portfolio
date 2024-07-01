@@ -67,5 +67,3 @@ We distinguish between two cases:
 - Random Forests
 
 ---
-
-Thank you for reviewing this chapter. For any questions or suggestions, you can contact me at [your.email@example.com](mailto:your.email@example.com).
