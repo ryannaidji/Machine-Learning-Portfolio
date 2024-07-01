@@ -23,15 +23,5 @@ This chapter introduces the fundamental concepts of regression and linear modeli
    - Linear Model
    - Linear Regression
    - Parameter Estimators
-4. [Higher-Degree Linear Regression](04_Higher_Degree_Linear_Regression.ipynb)
-   - Extended Linear Regression Formula: $y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \ldots + \beta_n x_n$
-5. [Steps for Implementing Linear Regression](05_Implementing_Linear_Regression.md)
-   - Data Collection
-   - Data Analysis
-   - Data Splitting (Training/Test)
-   - Model Development
-   - Model Evaluation
-     - RMSE (Root Mean Square Error)
-     - R-squared
 
 ---
