@@ -39,3 +39,19 @@ df = pd.DataFrame(data)
 # Display the DataFrame
 print(df)
 ```
+
+The above code creates a simple DataFrame with two features (`Feature1` and `Feature2`) and one targot variable (`Target`). The DataFrame looks like this:
+
+The above code creates a simple DataFrame with two features (`Feature1` and `Feature2`) and one target variable (`Target`). The DataFrame looks like this:
+
+|   | Feature1 | Feature2 | Target |
+|---|----------|----------|--------|
+| 0 | 1        | 5        | 1.1    |
+| 1 | 2        | 4        | 1.9    |
+| 2 | 3        | 3        | 3.0    |
+| 3 | 4        | 2        | 3.9    |
+| 4 | 5        | 1        | 5.1    |
+
+In this example, `Feature1` and `Feature2` are the independent variables $x_1$ and $x_2$, and `Target` is the dependent variable $y$.
+
+---
