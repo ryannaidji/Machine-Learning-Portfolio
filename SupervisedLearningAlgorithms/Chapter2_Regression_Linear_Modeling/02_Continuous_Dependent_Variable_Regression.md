@@ -31,24 +31,12 @@ where $d$ is the degree of the polynomial.
 
 ### Ridge Regression
 
-**Ridge Regression** adds a penalty equal to the sum of the squared coefficients (L2 norm) to the loss function. The objective function is:
-
-$$Minimize \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^p \beta_j^2 $$
-
-where $\lambda$ is the regularization parameter that controls the strength of the penalty.
+**Ridge Regression** is a regularization technique that adds a penalty to the size of the coefficients. This helps to prevent overfitting by shrinking the coefficients towards zero.
 
 ### Lasso Regression
 
-**Lasso Regression** adds a penalty equal to the sum of the absolute values of the coefficients (L1 norm) to the loss function. The objective function is:
-
-$$\text{Minimize } \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^p |\beta_j|$$
-
-Lasso can set some coefficients to zero, effectively performing feature selection.
+**Lasso Regression** is another regularization technique that adds a penalty to the absolute values of the coefficients. It can set some coefficients to zero, effectively performing feature selection.
 
 ### Elastic Net
 
-**Elastic Net** combines the penalties of Ridge and Lasso. The objective function is:
-
-$$\text{Minimize } \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda_1 \sum_{j=1}^p |\beta_j| + \lambda_2 \sum_{j=1}^p \beta_j^2$$
-
-Elastic Net is useful when there are multiple features that are correlated with one another.
+**Elastic Net** combines the penalties of both Ridge and Lasso. It is useful when there are multiple features that are correlated with one another.
