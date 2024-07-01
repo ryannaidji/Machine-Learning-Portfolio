@@ -2,6 +2,24 @@
 
 In this section, we will cover the concept of regression when the dependent variable is continuous. We will explore different types of regression techniques, including linear regression, polynomial regression, regression with basis functions, and regularization methods.
 
+## Continuous Variable
+
+A **continuous variable** is a variable that can take any value within a given range. These values are not restricted to specific discrete categories but can be any value, including fractions and decimals. Examples of continuous dependent variables include:
+
+- Temperature (e.g., 23.5°C, 37.8°C)
+- Price (e.g., $19.99, $100.50)
+- Height (e.g., 175.3 cm, 160.0 cm)
+- Time (e.g., 5.67 seconds, 10.3 minutes)
+
+## Continuous Dependent Variable
+
+In the context of supervised learning, a **continuous dependent variable** is a continuous variable that we aim to predict.
+
+- Predicting the temperature based on various weather parameters.
+- Estimating the price of a house based on its features such as size, location, and number of rooms.
+- Determining the height of a person based on their age and other factors.
+- Forecasting the time required to complete a task based on its complexity and other factors.
+
 ## Linear Regression
 
 **Linear Regression** is the simplest form of regression. It assumes a linear relationship between the dependent variable $y$ and one or more independent variables $x$. The relationship is modeled by a linear equation:
