@@ -17,7 +17,7 @@ where:
 
 **Polynomial Regression** extends linear regression by allowing for polynomial terms of the independent variables. This can capture non-linear relationships. The model takes the form:
 
-\[ y = \beta_0 + \beta_1 x + \beta_2 x^2 + \ldots + \beta_d x^d \]
+$$y = \beta_0 + \beta_1 x + \beta_2 x^2 + \ldots + \beta_d x^d$$
 
 where $d$ is the degree of the polynomial.
 
@@ -33,7 +33,7 @@ where $d$ is the degree of the polynomial.
 
 **Ridge Regression** adds a penalty equal to the sum of the squared coefficients (L2 norm) to the loss function. The objective function is:
 
-$$\text{Minimize } \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^p \beta_j^2 $$
+$$\text{Minimize } \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^p \beta_j^2$$
 
 where $\lambda$ is the regularization parameter that controls the strength of the penalty.
 
@@ -41,7 +41,7 @@ where $\lambda$ is the regularization parameter that controls the strength of th
 
 **Lasso Regression** adds a penalty equal to the sum of the absolute values of the coefficients (L1 norm) to the loss function. The objective function is:
 
-$$ \text{Minimize } \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^p |\beta_j| $$
+$$\text{Minimize } \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^p |\beta_j|$$
 
 Lasso can set some coefficients to zero, effectively performing feature selection.
 
@@ -49,6 +49,6 @@ Lasso can set some coefficients to zero, effectively performing feature selectio
 
 **Elastic Net** combines the penalties of Ridge and Lasso. The objective function is:
 
-$$ \text{Minimize } \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda_1 \sum_{j=1}^p |\beta_j| + \lambda_2 \sum_{j=1}^p \beta_j^2 $$
+$$\text{Minimize } \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda_1 \sum_{j=1}^p |\beta_j| + \lambda_2 \sum_{j=1}^p \beta_j^2$$
 
 Elastic Net is useful when there are multiple features that are correlated with one another.
