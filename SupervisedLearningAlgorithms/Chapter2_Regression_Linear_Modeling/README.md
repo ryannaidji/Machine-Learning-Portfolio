@@ -19,9 +19,10 @@ This chapter introduces the fundamental concepts of regression and linear modeli
      - Lasso
      - Elastic Net
 3. [Mathematical Concept of Linear Regression](03_Mathematical_Concept_Linear_Regression.ipynb)
-   - Linear Regression Formula: $y = \beta_0 + \beta_1 x$
-   - Parameter Estimation
-   - Error Minimization and Loss Functions
+   - Need for Prediction
+   - Linear Model
+   - Linear Regression
+   - Parameter Estimators
 4. [Higher-Degree Linear Regression](04_Higher_Degree_Linear_Regression.ipynb)
    - Extended Linear Regression Formula: $y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \ldots + \beta_n x_n$
 5. [Steps for Implementing Linear Regression](05_Implementing_Linear_Regression.md)
