@@ -4,7 +4,8 @@ In this section, we will introduce the basic concepts of **DataFrames** and the 
 
 ## Structure of a DataFrame
 
-A **DataFrame** is a two-dimensional labeled data structure with columns of potentially different types. It can be thought of as a table or spreadsheet in which rows and columns are indexed.
+DataFrame
+: A **DataFrame** is a two-dimensional labeled data structure with columns of potentially different types. It can be thought of as a table or spreadsheet in which rows and columns are indexed.
 
 ### Axes in a DataFrame
 
@@ -15,9 +16,20 @@ A **DataFrame** is a two-dimensional labeled data structure with columns of pote
 
 **Independent variables**, also known as **features**, **descriptors**, or **predictors**, are the input variables used to predict the target variable. These variables are denoted as $x_i$, where $i$ can be any integer representing different features.
 
+### Difference Between Descriptors and Predictors
+
+- **Descriptors**: These are the variables that describe the characteristics or attributes of the data. They provide detailed information about the input data but do not imply any prediction capability by themselves.
+  
+- **Predictors**: These are the variables that are specifically used to predict the target variable. While all predictors are descriptors, not all descriptors are necessarily used as predictors. Predictors are chosen based on their relevance and correlation to the target variable.
+
 ## Dependent Variable (Target, $y$)
 
 The **dependent variable**, also known as the **target**, is the output variable that we aim to predict. This variable is denoted as $y$.
+
+In **supervised learning**, the dependent variable is **labeled**. This means that for each instance in the dataset, the value of $y$ is known.
+
+- If **$y$** is a **continuous value**, the problem is known as **regression**.
+- If **$y$** is a **discrete value**, the problem is known as **classification**.
 
 ## Example DataFrame with Pandas
 
