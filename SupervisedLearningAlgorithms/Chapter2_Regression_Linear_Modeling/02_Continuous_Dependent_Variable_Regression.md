@@ -33,7 +33,7 @@ where $d$ is the degree of the polynomial.
 
 **Ridge Regression** adds a penalty equal to the sum of the squared coefficients (L2 norm) to the loss function. The objective function is:
 
-$$\text{Minimize } \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^p \beta_j^2$$
+$$Minimize \sum_{i=1}^n (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^p \beta_j^2 $$
 
 where $\lambda$ is the regularization parameter that controls the strength of the penalty.
 
