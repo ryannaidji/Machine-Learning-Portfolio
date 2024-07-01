@@ -4,8 +4,7 @@ In this section, we will introduce the basic concepts of **DataFrames** and the 
 
 ## Structure of a DataFrame
 
-DataFrame
-: A **DataFrame** is a two-dimensional labeled data structure with columns of potentially different types. It can be thought of as a table or spreadsheet in which rows and columns are indexed.
+A **DataFrame** is a two-dimensional labeled data structure with columns of potentially different types. It can be thought of as a table or spreadsheet in which rows and columns are indexed.
 
 ### Axes in a DataFrame
 
