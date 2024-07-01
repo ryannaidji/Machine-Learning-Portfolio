@@ -51,7 +51,7 @@ df = pd.DataFrame(data)
 print(df)
 ```
 
-The above code creates a simple DataFrame with two features (`Feature1` and `Feature2`) and one target variable (`Target`). The DataFrame looks like this:
+The above code creates a simple DataFrame with two features (**`Feature1`** and **`Feature2`**) and one target variable (**`Target`**). The DataFrame looks like this:
 
 |   | Feature1 | Feature2 | Target |
 |---|----------|----------|--------|
