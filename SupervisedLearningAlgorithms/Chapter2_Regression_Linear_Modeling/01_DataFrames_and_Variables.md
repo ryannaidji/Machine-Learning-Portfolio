@@ -27,8 +27,8 @@ The **dependent variable**, also known as the **target**, is the output variable
 
 In **supervised learning**, the dependent variable is **labeled**. This means that for each instance in the dataset, the value of $y$ is known.
 
-- If **$y$** is a **continuous value**, the problem is known as **regression**.
-- If **$y$** is a **discrete value**, the problem is known as **classification**.
+>> - If **$y$** is a **continuous value**, the problem is known as **regression**.
+>> - If **$y$** is a **discrete value**, the problem is known as **classification**.
 
 ## Example DataFrame with Pandas
 
