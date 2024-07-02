@@ -18,7 +18,7 @@ This chapter introduces the fundamental concepts of regression and linear modeli
      - Ridge
      - Lasso
      - Elastic Net
-4. [Mathematical Concept of Linear Regression](03_Mathematical_Concept_Linear_Regression.ipynb) :white_check_mark:
+3. [Mathematical Concept of Linear Regression](03_Mathematical_Concept_Linear_Regression.ipynb) :white_check_mark:
    - Need for Prediction
    - Linear Model
    - Linear Regression
