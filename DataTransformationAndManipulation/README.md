@@ -1,48 +1,83 @@
 # Data Transformation and Manipulation
 
-This directory contains courses and exercises introducing various concepts and techniques of data transformation and manipulation. You will find information on data representation, data cleaning, data security, and feature extraction.
+This directory contains courses and exercises focused on data transformation and manipulation techniques essential for machine learning and artificial intelligence. You will find detailed explanations on various data processing methods, practical implementations, and use cases in ML/AI.
 
-## Chapter 1: Data Representation
+## Chapter 1: Introduction to Data Transformation and Manipulation
 
-1. [Introduction to Data Representation](./Chapter1_Data_Representation/01_Introduction.md)
-   - Nature of Data and Data Types
-     - Numbers/Text/Images/Sounds
-   - Data Structures and Input/Output Formats
-     - Lists, Stacks, Trees, Graphs …
-   - Data Structures in Python
-   - Python Libraries
-   - Merging, Filtering, and Manipulations
+1. [General Introduction and Basic Concepts](./Chapter1_Introduction/01_Introduction.md)
+   - Importance of Data Transformation
+   - Overview of Data Manipulation Techniques
+   - Applications in Machine Learning and AI
 
-## Chapter 2: Data Cleaning
+## Chapter 2: Data Cleaning and Preparation
 
-1. [Data Cleaning Steps and Quality Measures](./Chapter2_Data_Cleaning/01_Data_Cleaning.md)
-   - The Steps
-   - Quality Measures of the Process
-   - Validation of the Final File
+1. [Introduction to DataFrames and Data Structures](./Chapter2_Data_Cleaning_Preparation/01_DataFrames_and_Data_Structures.md)
+   - Structure of a DataFrame
+   - Data Types and Conversions
+   - Handling Missing Values
+   - Example DataFrame with Pandas
+2. [Data Cleaning Techniques](./Chapter2_Data_Cleaning_Preparation/02_Data_Cleaning_Techniques.md)
+   - Identifying and Handling Outliers
+   - Dealing with Duplicate Data
+   - Data Normalization and Standardization
+3. [Feature Engineering](./Chapter2_Data_Cleaning_Preparation/03_Feature_Engineering.md)
+   - Creating New Features
+   - Transforming Existing Features
+   - Feature Scaling
+   - Encoding Categorical Variables
 
-## Chapter 3: Data Security and Anonymization
+## Chapter 3: Data Transformation Techniques
 
-1. [Data Security and Anonymization Techniques](./Chapter3_Data_Security_and_Anonymization/01_Data_Security_and_Anonymization.md)
-   - Specific Vocabulary
-   - Anonymization Techniques
-   - Security Techniques
-   - Evaluation of Data Quality
-   - Practical Process Example
+1. [Reshaping and Pivoting](./Chapter3_Data_Transformation_Techniques/01_Reshaping_and_Pivoting.md)
+   - Reshaping DataFrames
+   - Pivot Tables
+   - Melting and Stacking
+2. [Merging and Joining DataFrames](./Chapter3_Data_Transformation_Techniques/02_Merging_and_Joining_DataFrames.md)
+   - Concatenation
+   - Merge Operations
+   - Joining DataFrames
+3. [Time Series Data Manipulation](./Chapter3_Data_Transformation_Techniques/03_Time_Series_Data_Manipulation.md)
+   - Time Series Basics
+   - Resampling and Frequency Conversion
+   - Rolling Window Calculations
 
-## Chapter 4: Manipulating Different Data Structures
+## Chapter 4: Advanced Data Manipulation
 
-1. [Handling Various Data Structures](./Chapter4_Manipulating_Data_Structures/01_Handling_Data_Structures.md)
-   - List of Possible Data Structures
-   - Possible Transformations of Data Structures
-   - Practical Example and Process Validation
+1. [Dimensionality Reduction Techniques](./Chapter4_Advanced_Data_Manipulation/01_Dimensionality_Reduction.md)
+   - Principal Component Analysis (PCA)
+   - Singular Value Decomposition (SVD)
+   - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+2. [Text Data Processing](./Chapter4_Advanced_Data_Manipulation/02_Text_Data_Processing.md)
+   - Text Preprocessing
+   - Tokenization and Vectorization
+   - Natural Language Processing (NLP) Techniques
+3. [Image Data Processing](./Chapter4_Advanced_Data_Manipulation/03_Image_Data_Processing.md)
+   - Image Preprocessing Techniques
+   - Augmentation and Transformation
+   - Feature Extraction from Images
+4. [Sound Data Processing](./Chapter4_Advanced_Data_Manipulation/04_Sound_Data_Processing.ipynb)
 
-## Chapter 5: Using Feature Extractors on Data
+## Chapter 5: Data Security and Anonymization
 
-1. [Feature Extraction Techniques](./Chapter5_Feature_Extraction/01_Feature_Extraction.md)
-   - Data Types: Image, Sound, Video, Text…
-   - Extraction Techniques
-   - Evaluation of Feature Quality
-   - Process Validation
+1. [Data Security Techniques](./Chapter5_Data_Security_Anonymization/01_Data_Security_Techniques.md)
+   - Encryption Methods
+   - Access Control and Authentication
+   - Secure Data Storage
+2. [Data Anonymization Techniques](./Chapter5_Data_Security_Anonymization/02_Data_Anonymization_Techniques.md)
+   - Pseudonymization
+   - Data Masking
+   - Differential Privacy
+
+## Chapter 6: Data Quality Evaluation
+
+1. [Evaluating Data Quality](./Chapter6_Data_Quality_Evaluation/01_Evaluating_Data_Quality.md)
+   - Data Quality Metrics
+   - Data Profiling
+   - Handling Inconsistencies
+2. [Improving Data Quality](./Chapter6_Data_Quality_Evaluation/02_Improving_Data_Quality.md)
+   - Data Cleansing Techniques
+   - Data Enrichment
+   - Ongoing Data Quality Monitoring
 
 ---
 
