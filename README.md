@@ -46,7 +46,7 @@ This directory explores data transformation and manipulation techniques.
 
 [See the Data Transformation and Manipulation directory](./DataTransformationAndManipulation)
 
-## Supervised Learning Algorithms
+## Supervised Learning Algorithms ✅
 
 This directory contains work on supervised learning, including courses, practical exercises, and projects.
 
