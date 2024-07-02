@@ -4,7 +4,7 @@ This chapter provides a foundational understanding of unsupervised learning, hig
 
 ## Contents
 
-1. [General Introduction and Overview of Unsupervised Learning](./01_Introduction)
+1. [General Introduction and Overview of Unsupervised Learning](./01_Introduction.md)
    - Introduction to Unsupervised Learning
    - Differences between Supervised and Unsupervised Learning
    - Applications of Unsupervised Learning
