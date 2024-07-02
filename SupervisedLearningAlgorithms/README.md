@@ -4,20 +4,29 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 1: Introduction to Supervised Learning :white_check_mark:
 
-1. **General Introduction to Machine Learning and Supervised Learning**
-2. **Basic Concepts**
+1. **General Introduction and Basic Concepts to Machine Learning and Supervised Learning**
 
 ## Chapter 2: Regression and Linear Modeling
 
-1. **Linear Regression**
-    - Concept
-    - Implementation
-    - Applications
-2. **Regularization**
-    - Lasso
-    - Ridge
-    - Elastic Net
-    - Preventing Overfitting
+1. [Introduction to DataFrames and Variables](./Chapter2_Regression_Linear_Modeling/01_DataFrames_and_Variables.md) :white_check_mark:
+   - Structure of a DataFrame
+   - Independent Variables (Features, Descriptors, Predictors, $x_i$)
+   - Dependent Variable (Target, $y$)
+   - Example DataFrame with Pandas
+2. [Continuous Dependent Variable: Regression](./Chapter2_Regression_Linear_Modeling/02_Continuous_Dependent_Variable_Regression.md) :white_check_mark:
+   - Continuous Variable
+   - Linear Regression
+   - Polynomial Regression
+   - Regression with Basis Functions
+   - Introduction to Regularization
+     - Ridge
+     - Lasso
+     - Elastic Net
+3. [Mathematical Concept of Linear Regression](./Chapter2_Regression_Linear_Modeling/03_Mathematical_Concept_Linear_Regression.ipynb) :white_check_mark:
+   - Need for Prediction
+   - Linear Model
+   - Linear Regression
+   - Parameter Estimators
 
 ## Chapter 3: Classification Algorithms
 
