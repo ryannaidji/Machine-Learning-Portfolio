@@ -4,7 +4,7 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 1: Introduction to Unsupervised Learning
 
-1. [General Introduction and Overview of Unsupervised Learning](./Chapter1_Introduction/01_Overview.md)
+1. [General Introduction and Overview of Unsupervised Learning](./Chapter1_Introduction/README.md)
    - Introduction to Unsupervised Learning
    - Differences between Supervised and Unsupervised Learning
    - Applications of Unsupervised Learning
