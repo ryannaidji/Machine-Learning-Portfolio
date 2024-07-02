@@ -4,20 +4,20 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 1: Introduction to Unsupervised Learning ✅
 
-1. [General Introduction and Overview of Unsupervised Learning](./Chapter1_Introduction/README.md)
+1. [General Introduction and Overview of Unsupervised Learning](./Chapter1_Introduction/01_Introduction.md)
    - Introduction to Unsupervised Learning
    - Differences between Supervised and Unsupervised Learning
    - Applications of Unsupervised Learning
 
-## Chapter 2: Types of Unsupervised Learning
+## Chapter 2: Types of Unsupervised Learning ✅
 
-1. [Dimensionality Reduction](./Chapter2_Types_of_Unsupervised_Learning/01_Dimensionality_Reduction.md)
+1. [Dimensionality Reduction](./Chapter2_Types_of_Unsupervised_Learning/01_Dimensionality_Reduction.ipynb)
    - Principal Component Analysis (PCA)
    - Multiple Correspondence Analysis (MCA)
    - Factor Analysis of Mixed Data (FAMD)
-2. [Clustering](./Chapter2_Types_of_Unsupervised_Learning/02_Clustering.md)
+2. [Clustering](./Chapter2_Types_of_Unsupervised_Learning/02_Clustering.ipynb)
    - Overview of Clustering Methods
-3. [Association Rules](./Chapter2_Types_of_Unsupervised_Learning/03_Association_Rules.md)
+3. [Association Rules](./Chapter2_Types_of_Unsupervised_Learning/03_Association_Rules.ipynb)
    - Overview of Association Rule Learning
 
 ## Chapter 3: Dimensionality Reduction
