@@ -39,5 +39,3 @@ Unsupervised learning has a wide range of applications across various domains:
 Unsupervised learning is a powerful tool for discovering hidden structures in data, making it a critical technique in data analysis and machine learning.
 
 ---
-
-Thank you for visiting this chapter and reviewing the educational material on unsupervised learning. For any questions or suggestions, you can contact me at [your_email@example.com](mailto:your_email@example.com).
