@@ -2,13 +2,13 @@
 
 This directory contains courses and exercises introducing various concepts and techniques of exploratory data analysis (EDA). You will find information on fundamental concepts, visualization techniques, data preparation, and various analysis methods.
 
-## Chapter 1: Introduction to Exploratory Data Analysis (EDA)
+## Chapter 1: Introduction to Exploratory Data Analysis (EDA) ✅
 
 1. [General Introduction to EDA](./Chapter1_Introduction/01_Definition_of_EDA.md)
    - Definition of EDA
    - Data Representation (Observations and Variables)
 
-## Chapter 2: Data Visualization
+## Chapter 2: Data Visualization ✅
 
 1. [Visualization Techniques](./Chapter2_Data_Visualization/01_Visualization_Techniques.md)
    - Visualization of Data Distribution
