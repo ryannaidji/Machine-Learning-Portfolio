@@ -2,7 +2,7 @@
 
 This directory contains courses and exercises introducing various concepts and techniques of unsupervised learning. You will find information on fundamental concepts, algorithms, and practical applications of unsupervised learning.
 
-## Chapter 1: Introduction to Unsupervised Learning
+## Chapter 1: Introduction to Unsupervised Learning ✅
 
 1. [General Introduction and Overview of Unsupervised Learning](./Chapter1_Introduction/README.md)
    - Introduction to Unsupervised Learning
