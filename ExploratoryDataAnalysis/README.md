@@ -4,7 +4,7 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 1: Introduction to Exploratory Data Analysis (EDA)
 
-1. [General Introduction to EDA](./Chapter1_Introduction/01_Introduction.md)
+1. [General Introduction to EDA](./Chapter1_Introduction/01_Definition_of_EDA.md)
    - Definition of EDA
    - Data Representation (Observations and Variables)
 
