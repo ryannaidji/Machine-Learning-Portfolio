@@ -4,21 +4,21 @@ This chapter introduces the fundamental concepts of regression and linear modeli
 
 ## Contents
 
-1. [Introduction to DataFrames and Variables](01_DataFrames_and_Variables.md)
+1. [Introduction to DataFrames and Variables](01_DataFrames_and_Variables.md) :white_check_mark:
    - Structure of a DataFrame
-   - Axes 0 and 1 in a DataFrame
    - Independent Variables (Features, Descriptors, Predictors, $x_i$)
    - Dependent Variable (Target, $y$)
    - Example DataFrame with Pandas
-2. [Continuous Dependent Variable: Regression](02_Continuous_Dependent_Variable_Regression.md)
+2. [Continuous Dependent Variable: Regression](02_Continuous_Dependent_Variable_Regression.md) :white_check_mark:
+   - Continuous Variable
    - Linear Regression
    - Polynomial Regression
    - Regression with Basis Functions
-   - Regularization
+   - Introduction to Regularization
      - Ridge
      - Lasso
      - Elastic Net
-3. [Mathematical Concept of Linear Regression](03_Mathematical_Concept_Linear_Regression.ipynb)
+4. [Mathematical Concept of Linear Regression](03_Mathematical_Concept_Linear_Regression.ipynb) :white_check_mark:
    - Need for Prediction
    - Linear Model
    - Linear Regression
