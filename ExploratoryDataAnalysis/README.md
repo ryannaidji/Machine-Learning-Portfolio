@@ -6,7 +6,6 @@ This directory contains courses and exercises introducing various concepts and t
 
 1. [General Introduction to EDA](./Chapter1_Introduction/01_Introduction.md)
    - Definition of EDA
-   - Overview of AI
    - Data Representation (Observations and Variables)
 
 ## Chapter 2: Data Visualization
