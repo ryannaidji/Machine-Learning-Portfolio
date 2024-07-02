@@ -28,17 +28,23 @@ This directory contains courses and exercises introducing various concepts and t
    - Linear Regression
    - Parameter Estimators
 
-## Chapter 3: Classification Algorithms
+## Chapter 3: Classification Algorithms ✅
 
-1. **Overview of Classification Methods and KNN**
+1. [Overview of Classification Methods and KNN](./Chapter3_Classification_Algorithms/01_Classification_and_KNN.ipynb)
     - Classification
     - K-Nearest Neighbors
-3. **Decision Trees**
-    - Principles
+    - Models Evaluation
+3. [Decision Trees](./Chapter3_Classification_Algorithms/02_Decision_Tree.ipynb)
+    - Concept
+      - Algorithm
+      - GINI Index & Entropy
     - Implementation
-4. **Naive Bayes Classifier**
-    - Principles
-    - Application Examples
+      - Decision Tree Classifier
+      - Decision Tree Regressor
+4. [Naive Bayes Classifier](./Chapter3_Classification_Algorithms/03_Naive_Bayes.ipynb)
+    - Conditional Probability
+    - Naive Bayes Classifier
+    - Implementation
 
 ## Chapter 4: Advanced Techniques in Supervised Learning
 
