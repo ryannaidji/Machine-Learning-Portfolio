@@ -4,7 +4,7 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 1: Introduction to Supervised Learning :white_check_mark:
 
-1. **General Introduction and Basic Concepts to Machine Learning and Supervised Learning**
+1. [General Introduction and Basic Concepts to Machine Learning and Supervised Learning](./Chapter1_Introduction/01_Introduction.md) :white_check_mark:
 
 ## Chapter 2: Regression and Linear Modeling
 
