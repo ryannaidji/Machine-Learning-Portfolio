@@ -1,12 +1,12 @@
-# ML/AI Portfolio
+# ML/AI Portfolio 💼
 
 Welcome to my ML/AI portfolio! This repository contains various works completed during my studies, covering a range of topics in machine learning and artificial intelligence. Each directory corresponds to a specific area of AI and includes courses, exercises, and projects.
 
-## About Me
+## About Me 🙋‍♂️
 
 I am a student in machine learning (ML) and artificial intelligence (AI) at Miami-Dade College (USA) and Collège de Bois-de-Boulogne (CA). I have been studying in this exciting field for two years now, during which I have acquired a wide and deep range of skills.
 
-## Table of Contents
+## Table of Contents 📖
 
 1. [Introduction to the Job Function](#introduction-to-the-job-function)
 2. [Data Collection and Storage](#data-collection-and-storage)
@@ -133,7 +133,7 @@ The following technologies were used in this portfolio:
 This project was created by:
 - **[Ryan NAIDJI](https://github.com/ryannaidji)** - Student in ML/AI at Miami-Dade College and Collège de Bois-de-Boulogne
 
-## Contact
+## Contact ℹ️
 
 For any questions or suggestions, you can contact me at [ryan.naidji@gmail.com](mailto:ryan.naidji@gmail.com).
 
