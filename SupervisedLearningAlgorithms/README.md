@@ -31,13 +31,7 @@ This directory contains courses and exercises introducing various concepts and t
     - Principles
     - Application Examples
 
-## Chapter 4: Model Selection and Evaluation
-
-1. **Model Selection Techniques**
-2. **Cross-Validation**
-3. **Performance Metrics**
-
-## Chapter 5: Advanced Techniques in Supervised Learning
+## Chapter 4: Advanced Techniques in Supervised Learning
 
 1. **Ensemble Methods**
     - Bagging
@@ -47,13 +41,6 @@ This directory contains courses and exercises introducing various concepts and t
     - Dimensionality Reduction
     - Applications
 
-## Chapter 6: Practical Applications
-
-1. **Using Spark MLlib for Large-Scale Supervised Learning**
-2. **Microsoft Azure Tools for Machine Learning**
-3. **Image Feature Extraction**
-    - Applications in Image Recognition
-
 ---
 
-Thank you for visiting this directory and reviewing the educational material. For any questions or suggestions, you can contact me at [your.email@example.com](mailto:your.email@example.com).
+Thank you for visiting this directory and reviewing the educational material. For any questions or suggestions, you can contact me at [ryan.naidji@gmail.com](mailto:ryan.naidji@gmail.com).
