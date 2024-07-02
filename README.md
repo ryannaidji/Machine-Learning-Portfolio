@@ -64,7 +64,7 @@ Here you will find work on reinforcement learning, including courses and project
 
 [See the Reinforcement Learning Algorithms directory](./ReinforcementLearningAlgorithms)
 
-## 8. Deep Learning Algorithms
+## 8. Deep Learning Algorithms ⏳
 
 Discover work on deep learning, including courses and advanced projects.
 
