@@ -4,16 +4,16 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 1: Introduction to Supervised Learning :white_check_mark:
 
-1. [General Introduction and Basic Concepts to Machine Learning and Supervised Learning](./Chapter1_Introduction/01_Introduction.md) :white_check_mark:
+1. [General Introduction and Basic Concepts to Machine Learning and Supervised Learning](./Chapter1_Introduction/01_Introduction.md) 
 
-## Chapter 2: Regression and Linear Modeling
+## Chapter 2: Regression and Linear Modeling :white_check_mark:
 
-1. [Introduction to DataFrames and Variables](./Chapter2_Regression_Linear_Modeling/01_DataFrames_and_Variables.md) :white_check_mark:
+1. [Introduction to DataFrames and Variables](./Chapter2_Regression_Linear_Modeling/01_DataFrames_and_Variables.md)
    - Structure of a DataFrame
    - Independent Variables (Features, Descriptors, Predictors, $x_i$)
    - Dependent Variable (Target, $y$)
    - Example DataFrame with Pandas
-2. [Continuous Dependent Variable: Regression](./Chapter2_Regression_Linear_Modeling/02_Continuous_Dependent_Variable_Regression.md) :white_check_mark:
+2. [Continuous Dependent Variable: Regression](./Chapter2_Regression_Linear_Modeling/02_Continuous_Dependent_Variable_Regression.md)
    - Continuous Variable
    - Linear Regression
    - Polynomial Regression
@@ -22,7 +22,7 @@ This directory contains courses and exercises introducing various concepts and t
      - Ridge
      - Lasso
      - Elastic Net
-3. [Mathematical Concept of Linear Regression](./Chapter2_Regression_Linear_Modeling/03_Mathematical_Concept_Linear_Regression.ipynb) :white_check_mark:
+3. [Mathematical Concept of Linear Regression](./Chapter2_Regression_Linear_Modeling/03_Mathematical_Concept_Linear_Regression.ipynb)
    - Need for Prediction
    - Linear Model
    - Linear Regression
