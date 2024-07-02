@@ -6,6 +6,8 @@
 - During a typical exploratory analysis, the researcher considers and compares many variables using various techniques to highlight systematic structures.
 - A discipline situated at the intersection of statistics, artificial intelligence, and databases.
 
+![Intersection](./Intersection.png)
+
 **EDA is often confused with statistical data analysis, but these disciplines differ:**
 
 | **Statistics** | **EDA** |
