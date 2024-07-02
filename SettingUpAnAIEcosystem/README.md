@@ -2,7 +2,7 @@
 
 This directory contains courses and exercises on setting up an AI ecosystem. You will find information on hardware setup, virtualization technologies, and AI frameworks and tools.
 
-## Chapter 1: Setting Up a Hardware Environment for AI :white_check_mark:
+## Chapter 1: Setting Up a Hardware Environment for AI
 
 1. [Installation and Introduction to Linux Operating System](./Chapter1_Hardware_Environment/01_Linux_Installation_and_Introduction.md)
    - Installing and Discovering a Linux OS
@@ -10,14 +10,14 @@ This directory contains courses and exercises on setting up an AI ecosystem. You
    - Introduction to the Shell
    - Basic Commands
 
-## Chapter 2: Using Virtualization Technologies in AI :white_check_mark:
+## Chapter 2: Using Virtualization Technologies in AI
 
 1. [Introduction to Virtualization](./Chapter2_Virtualization/01_Introduction_to_Virtualization.md)
    - Different Types of Virtualization: Virtual Machines and Containerization
    - Introduction to Cloud, Docker, and Azure Container Service
    - Demonstration and Manipulation of a Machine Learning Workbench Service: Azure Machine Learning
 
-## Chapter 3: AI Frameworks and Tools :white_check_mark:
+## Chapter 3: AI Frameworks and Tools
 
 1. [Introduction to AI Frameworks and Tools](./Chapter3_AI_Frameworks_Tools/01_Introduction_to_AI_Frameworks_Tools.md)
    - TensorFlow
