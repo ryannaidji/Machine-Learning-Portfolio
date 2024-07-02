@@ -10,7 +10,7 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 2: Data Visualization ✅
 
-1. [Visualization Techniques](./Chapter2_Data_Visualization/01_Visualization_Techniques.md)
+1. [Visualization Techniques](./Chapter2_Data_Visualization/README.md)
    - Visualization of Data Distribution
    - Visualization of Data Correlation
    - Rank Visualization
