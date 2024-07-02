@@ -6,7 +6,7 @@ This chapter provides a foundational understanding of Exploratory Data Analysis 
 
 1. [Definition of EDA](#definition-of-eda)
 2. [Overview of AI](#overview-of-ai)
-3. [Data Representation](#data-representation)
+3. [Data Representation (Observations and Variables](#data-representation)
 
 ## Definition of EDA
 
@@ -16,6 +16,6 @@ This chapter provides a foundational understanding of Exploratory Data Analysis 
 
 [Link to detailed file](./02_Overview_of_AI.md)
 
-## Data Representation
+## Data Representation (Observations and Variables)
 
 [Link to detailed file](./03_Data_Representation.md)
