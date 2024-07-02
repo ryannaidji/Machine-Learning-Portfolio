@@ -22,79 +22,79 @@ I am a student in machine learning (ML) and artificial intelligence (AI) at Miam
 12. [Synthesis Project](#synthesis-project)
 13. [Final Project](#final-project)
 
-## Introduction to the Job Function :white_check_mark:
+## 1. Introduction to the Job Function :white_check_mark:
 
 This directory contains courses and exercises that introduce the different functions and roles in the field of AI and ML.
 
 [See the Introduction to the Job Function directory](./IntroductionToTheJobFunction)
 
-## Data Collection and Storage
+## 2. Data Collection and Storage
 
 This directory covers techniques and methods for data collection and storage.
 
 [See the Data Collection and Storage directory](./DataCollectionAndStorage)
 
-## Exploratory Data Analysis
+## 3. Exploratory Data Analysis
 
 This directory covers exploratory data analysis, with examples and practical exercises.
 
 [See the Exploratory Data Analysis directory](./ExploratoryDataAnalysis)
 
-## Data Transformation and Manipulation
+## 4. Data Transformation and Manipulation
 
 This directory explores data transformation and manipulation techniques.
 
 [See the Data Transformation and Manipulation directory](./DataTransformationAndManipulation)
 
-## Supervised Learning Algorithms ✅
+## 5. Supervised Learning Algorithms ✅
 
 This directory contains work on supervised learning, including courses, practical exercises, and projects.
 
 [See the Supervised Learning Algorithms directory](./SupervisedLearningAlgorithms)
 
-## Unsupervised Learning Algorithms
+## 6. Unsupervised Learning Algorithms
 
 This directory covers unsupervised learning with examples and practical projects.
 
 [See the Unsupervised Learning Algorithms directory](./UnsupervisedLearningAlgorithms)
 
-## Reinforcement Learning Algorithms
+## 7. Reinforcement Learning Algorithms
 
 Here you will find work on reinforcement learning, including courses and projects.
 
 [See the Reinforcement Learning Algorithms directory](./ReinforcementLearningAlgorithms)
 
-## Deep Learning Algorithms
+## 8. Deep Learning Algorithms
 
 Discover work on deep learning, including courses and advanced projects.
 
 [See the Deep Learning Algorithms directory](./DeepLearningAlgorithms)
 
-## Setting up an AI Ecosystem
+## 9. Setting up an AI Ecosystem
 
 This directory explores the ecosystem of tools and libraries used in ML/AI.
 
 [See the Setting up an AI Ecosystem directory](./SettingUpAnAIEcosystem)
 
-## Professional Interaction in AI
+## 10. Professional Interaction in AI
 
 This directory contains resources and exercises on professional interactions in the field of AI.
 
 [See the Professional Interaction in AI directory](./ProfessionalInteractionInAI)
 
-## Preparing the AI Solution for Production Launch
+## 11. Preparing the AI Solution for Production Launch
 
 This directory covers the steps and techniques to prepare an AI solution for production launch.
 
 [See the Preparing the AI Solution for Production Launch directory](./PreparingTheAISolutionForProductionLaunch)
 
-## Synthesis Project
+## 12. Synthesis Project
 
 This directory contains a synthesis project integrating several techniques and concepts learned during my studies.
 
 [See the Synthesis Project directory](./SynthesisProject)
 
-## Final Project
+## 13. Final Project
 
 This directory contains the final project of my studies in ML/AI.
 
