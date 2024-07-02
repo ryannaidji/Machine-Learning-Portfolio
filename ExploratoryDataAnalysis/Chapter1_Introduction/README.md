@@ -13,4 +13,4 @@ This chapter provides a foundational understanding of Exploratory Data Analysis 
 
 ## Data Representation (Observations and Variables)
 
-[Link to detailed file](./03_Data_Representation.md)
+[Link to detailed file](./02_Data_Representation.md)
