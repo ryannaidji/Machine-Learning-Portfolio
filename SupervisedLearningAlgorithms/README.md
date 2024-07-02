@@ -46,15 +46,23 @@ This directory contains courses and exercises introducing various concepts and t
     - Naive Bayes Classifier
     - Implementation
 
-## Chapter 4: Advanced Techniques in Supervised Learning
+## Chapter 4: Advanced Techniques in Supervised Learning ✅
 
-1. **Ensemble Methods**
-    - Bagging
-    - Boosting
-    - Random Forest
-2. **Principal Component Analysis (PCA)**
-    - Dimensionality Reduction
-    - Applications
+1. [Regularization](Chapter4_Advanced_Techniques_Supervised_Learning/01_Regularization.ipynb)
+   - Need for Regularization
+   - Ridge Approach
+   - Lasso Approach
+2. [Ensemble Methods](Chapter4_Advanced_Techniques_Supervised_Learning/02_Ensembles_Methods.ipynb)
+   - Overfitting
+   - Bagging
+   - Boosting
+   - Random Forest
+   - Implementation
+3. [Principal Component Analysis (PCA)](Chapter4_Advanced_Techniques_Supervised_Learning/03_PCA.ipynb)
+   - Dimensionality Reduction
+   - Principal Component Analysis (PCA)
+   - Implementation
+
 
 ---
 
