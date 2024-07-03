@@ -37,14 +37,14 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 4: Clustering
 
-1. [Centroid-Based Clustering](./Chapter4_Clustering/01_Centroid_Based_Clustering.md)
+1. [Centroid-Based Clustering](./Chapter4_Clustering/01_Centroid_Based_Clustering.ipynb)
    - K-Means Clustering
    - K-Medoids Clustering
-2. [Connectivity-Based Clustering](./Chapter4_Clustering/02_Connectivity_Based_Clustering.md)
+2. [Connectivity-Based Clustering](./Chapter4_Clustering/02_Connectivity_Based_Clustering.ipynb)
    - Agglomerative Hierarchical Clustering (CAH)
-3. [Distribution-Based Clustering](./Chapter4_Clustering/03_Distribution_Based_Clustering.md)
+3. [Distribution-Based Clustering](./Chapter4_Clustering/03_Distribution_Based_Clustering.ipynb)
    - Gaussian Mixture Models (GMM)
-4. [Density-Based Clustering](./Chapter4_Clustering/04_Density_Based_Clustering.md)
+4. [Density-Based Clustering](./Chapter4_Clustering/04_Density_Based_Clustering.ipynb)
    - DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 
 ## Chapter 5: Association Rule Learning
