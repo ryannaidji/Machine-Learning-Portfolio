@@ -52,7 +52,7 @@ This directory contains work on supervised learning, including courses, practica
 
 [See the Supervised Learning Algorithms directory](./SupervisedLearningAlgorithms)
 
-## 6. Unsupervised Learning Algorithms ⏳
+## 6. Unsupervised Learning Algorithms ✅
 
 This directory covers unsupervised learning with examples and practical projects.
 
