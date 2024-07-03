@@ -4,11 +4,13 @@ Association Rule Learning is a rule-based machine learning method for discoverin
 
 ## Content
 
-1. [Introduction to Association Rules](./Chapter5_Association_Rules/01_Introduction.md)
+1. [Introduction to Association Rules](./01_Introduction.md)
    - Definition and Applications
-2. [Apriori Algorithm](./Chapter5_Association_Rules/02_Apriori_Algorithm.ipynb)
+2. [Apriori Algorithm](./02_Apriori_Algorithm.ipynb)
+   - Mathematical Foundation
    - Algorithm Steps
    - Implementation with Examples
-3. [FP-Growth Algorithm](./Chapter5_Association_Rules/03_FP_Growth_Algorithm.ipynb)
+4. [FP-Growth Algorithm](./03_FP_Growth_Algorithm.ipynb)
+   - Mathematical Foundation
    - Algorithm Steps
    - Implementation with Examples
