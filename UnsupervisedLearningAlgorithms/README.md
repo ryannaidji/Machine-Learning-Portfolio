@@ -47,14 +47,16 @@ This directory contains courses and exercises introducing various concepts and t
 4. [Density-Based Clustering](./Chapter4_Clustering/04_Density_Based_Clustering.ipynb)
    - DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 
-## Chapter 5: Association Rule Learning
+## Chapter 5: Association Rule Learning ✅
 
 1. [Introduction to Association Rules](./Chapter5_Association_Rules/01_Introduction.md)
    - Definition and Applications
-2. [Apriori Algorithm](./Chapter5_Association_Rules/02_Apriori_Algorithm.md)
+2. [Apriori Algorithm](./Chapter5_Association_Rules/02_Apriori_Algorithm.ipynb)
+   - Mathematical Foundations
    - Algorithm Steps
    - Implementation with Examples
-3. [FP-Growth Algorithm](./Chapter5_Association_Rules/03_FP_Growth_Algorithm.md)
+4. [FP-Growth Algorithm](./Chapter5_Association_Rules/03_FP_Growth_Algorithm.ipynb)
+   - Mathematical Foundations
    - Algorithm Steps
    - Implementation with Examples
 
