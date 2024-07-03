@@ -35,7 +35,7 @@ This directory contains courses and exercises introducing various concepts and t
    - Mathematical Foundations
    - Implementation with Examples
 
-## Chapter 4: Clustering
+## Chapter 4: Clustering ✅
 
 1. [Centroid-Based Clustering](./Chapter4_Clustering/01_Centroid_Based_Clustering.ipynb)
    - K-Means Clustering
