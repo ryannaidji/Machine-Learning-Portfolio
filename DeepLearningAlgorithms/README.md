@@ -28,14 +28,17 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 3: Logistic Regression
 
-1. [Logistic Regression](./Chapter3_Logistic_Regression/01_Logistic_Regression.md)
-   - Logistic Function
-   - Cost Function
-   - Training Logistic Regression Model
-2. [Softmax Regression](./Chapter3_Logistic_Regression/02_Softmax_Regression.md)
-   - Principle of Softmax Regression
-   - Cost Function
-   - Training Softmax Regression Model
+1. [Introduction to Logistic Regression](./Chapter3_Logistic_Regression/01_Introduction.ipynb)
+   - Contextualization
+   - Review of the Linear Regression Model
+2. [Logistic Regression](./Chapter3_Logistic_Regression/02_Logistic_Regression.ipynb)
+   - The Logistic Function
+   - The Cost Function
+   - Training the Logistic Regression Model
+3. [Softmax Regression](./Chapter3_Logistic_Regression/03_Softmax_Regression.ipynb)
+   - Principles of Softmax Regression
+   - The Cost Function
+   - Training the Softmax Regression Model
 
 ## Chapter 4: Introduction to Neural Networks
 
