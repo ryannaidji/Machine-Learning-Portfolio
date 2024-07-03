@@ -31,24 +31,6 @@ This directory contains courses and exercises introducing various concepts and t
    - Data Description
    - Statistical Tests
 
-## Chapter 5: Principal Component Analysis (PCA)
-
-1. [Principal Component Analysis (PCA)](./Chapter5_PCA/01_PCA.md)
-   - Principle of PCA
-   - Steps of PCA
-   - Number of Axes to Retain
-   - Interpretation of Results
-
-## Chapter 6: Factor Analysis of Mixed Data (FAMD)
-
-1. [Factor Analysis of Mixed Data (FAMD)](./Chapter6_FAMD/01_FAMD.md)
-
-## Chapter 7: Association Analysis
-
-1. [Association Rules](./Chapter7_Association_Rules/01_Association_Rules.md)
-   - Frequent Items
-   - Generation of Association Rules
-
 ---
 
 Thank you for visiting this directory and reviewing the educational material. For any questions or suggestions, you can contact me at [ryan.naidji@gmail.com](mailto:ryan.naidji@gmail.com).
