@@ -20,17 +20,17 @@ This directory contains courses and exercises introducing various concepts and t
 3. [Association Rules](./Chapter2_Types_of_Unsupervised_Learning/03_Association_Rules.ipynb)
    - Overview of Association Rule Learning
 
-## Chapter 3: Dimensionality Reduction
+## Chapter 3: Dimensionality Reduction ✅
 
-1. [Principal Component Analysis (PCA)](./Chapter3_Dimensionality_Reduction/01_PCA.md)
+1. [Principal Component Analysis (PCA)](./Chapter3_Dimensionality_Reduction/01_Principal_Component_Analysis.ipynb)
    - Introduction to PCA
    - Mathematical Foundations
    - Implementation with Examples
-2. [Multiple Correspondence Analysis (MCA)](./Chapter3_Dimensionality_Reduction/02_MCA.md)
+2. [Multiple Correspondence Analysis (MCA)](./Chapter3_Dimensionality_Reduction/02_Multiple_Correspondence_Analysis.ipynb)
    - Introduction to MCA
    - Mathematical Foundations
    - Implementation with Examples
-3. [Factor Analysis of Mixed Data (FAMD)](./Chapter3_Dimensionality_Reduction/03_FAMD.md)
+3. [Factor Analysis of Mixed Data (FAMD)](./Chapter3_Dimensionality_Reduction/03_Factor_Analysis_of_Mixed_Data.md)
    - Introduction to FAMD
    - Mathematical Foundations
    - Implementation with Examples
