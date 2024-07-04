@@ -4,7 +4,7 @@ Logistic regression is a fundamental classification algorithm in machine learnin
 
 ## Content
 
-1. [Introduction to Logistic Regression](./01_Introduction.ipynb)
+1. [Introduction to Logistic Regression](./01_Introduction.md)
    - Contextualization
    - Review of the Linear Regression Model
 2. [Logistic Regression](./02_Logistic_Regression.ipynb)
