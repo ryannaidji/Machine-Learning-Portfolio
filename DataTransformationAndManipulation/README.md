@@ -40,44 +40,47 @@ This directory contains courses and exercises focused on data transformation and
 
 ## Chapter 3: Statistical Analysis and Outlier Management
 
-1. Objectives of Statistical Analysis
+1. [Objectives of Statistical Analysis](./Chapter3_Statistical_Analysis_and_Outlier_Management/01_Objectives_of_Statistical_Analysis.ipynb)
    - Predicting behavior of unobserved individuals
    - Explaining variability with other variables
    - Distinguishing groups of individuals
 
-2. Detecting and Managing Outliers
+2. [Detecting and Managing Outliers](./Chapter3_Statistical_Analysis_and_Outlier_Management/02_Detecting_and_Managing_Outliers.ipynb)
    - Detecting univariate and multivariate outliers
    - Detection methods (hypothesis testing, Z-score, IQR)
    - Impact of outliers on analyses
    - Treating outliers (Winsorization, log transformation)
    - Detecting outliers with clustering
 
-3. Distributions and Validation
+3. [Distributions and Validation](./Chapter3_Statistical_Analysis_and_Outlier_Management/03_Distributions_and_Validation.ipynb)
    - Normal (Gaussian) distribution and other common distributions (exponential, uniform)
    - Validating distributions (Shapiro-Wilk test, Kolmogorov-Smirnov, Anderson-Darling)
+   - Splitting a Non-Gaussian Dataset
 
-4. Transformations for Normality
-   - PowerTransformer "yeo-johnson"
+4. [Transformations for Normality](./Chapter3_Statistical_Analysis_and_Outlier_Management/04_Transformations_for_Normality.ipynb)
+   - Yeo-Johnson transformation
    - Cox-box
    - Log
-   - Sqrt**1/3
+   - Cube Root
 
 ## Chapter 4: Data Anonymization
 
-1. Types of Data to Anonymize
-   - Personal data (name, address)
-   - Sensitive data (age, biometric data)
+1. [Types of Data to Anonymize](./Chapter4_Data_Anonymization/01_Types_of_Data_to_Anonymize.md)
+   - Personal data
+   - Sensitive data
+   - Importance of Anonymizing Data
 
-2. Anonymization Techniques
-   - Removing information
-   - Transforming information (grouping, less precision, generating random individuals)
-
-3. Anonymization Algorithms
-   - K-anonymity via bucketization and generalization
-   - Random algorithms (combining real and generated data)
-
-4. Hashing Names with hashlib
-   - Hashing techniques (MD5, SHA-256)
+2. [Anonymization Techniques](./Chapter4_Data_Anonymization/02_Anonymization_Techniques.ipynb)
+   - Data Masking
+   - Data Pseudonymization
+   - Generalization
+   - Suppression
+   - Noise Addition
+   - Data Swapping
+   - Aggregation
+   - Tokenization
+   - Synthetic Data Generation
+   - Differential Privacy
 
 ## Chapter 5: Natural Language Processing (NLP)
 
