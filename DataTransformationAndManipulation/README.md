@@ -20,20 +20,20 @@ This directory contains courses and exercises focused on data transformation and
 
 ## Chapter 2: Data Preparation and Cleaning
 
-1. Identifying and Handling Missing Data
+1. [Identifying and Handling Missing Data](./Chapter2_Data_Preparation_and_Cleaning/01_Identifying_and_Handling_Missing_Data.ipynb)
    - Detecting missing data (isnull, notnull)
    - Techniques for handling (imputation, deletion)
    - Advanced imputation methods (KNN, MICE)
 
-2. Handling Duplicates
+2. [Handling Duplicates](./Chapter2_Data_Preparation_and_Cleaning/02_Handling_Duplicates.ipynb)
    - Detecting and removing duplicates (drop_duplicates)
 
-3. Selecting and Grouping Data
+3. [Selecting and Grouping Data](./Chapter2_Data_Preparation_and_Cleaning/03_Selecting_and_Grouping_Data.ipynb)
    - Selecting variables and individuals (loc, iloc)
    - Grouping variables (groupby, pivot_table)
    - Conditional filtering (query)
 
-4. Data Transformation and Normalization
+4. [Data Transformation and Normalization](./Chapter2_Data_Preparation_and_Cleaning/04_Data_Transformation_and_Normalization.ipynb)
    - Normalization and standardization (MinMaxScaler, StandardScaler, RobustScaler)
    - Encoding categorical variables (One-Hot Encoding, Label Encoding)
    - Handling dates and times (datetime)
