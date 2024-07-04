@@ -4,17 +4,17 @@ This directory contains courses and exercises focused on data transformation and
 
 ## Chapter 1: Introduction to Data Manipulation and Transformation
 
-1. Importance of Data Manipulation
+1. [Importance of Data Manipulation](./Chapter1_Introduction/01_Introductions.md)
    - Understanding and exploring data
    - Preparing data for analysis
    - Practical applications in various fields (finance, healthcare, marketing)
 
-2. Overview of Python Libraries
+2. [Overview of Python Libraries](./Chapter1_Introduction/01_Introductions.md)
    - Pandas: handling tabular data, DataFrame, Series
    - NumPy: efficient numerical computations, multidimensional arrays
    - Scipy: advanced mathematical functions, statistics, optimization
 
-3. Data File Formats
+3. [Data File Formats](./Chapter1_Introduction/01_Introductions.md)
    - CSV: reading, writing, manipulation
    - Other common formats (Excel, JSON, SQL)
 
