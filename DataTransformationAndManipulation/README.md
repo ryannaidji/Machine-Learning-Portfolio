@@ -50,6 +50,7 @@ This directory contains courses and exercises focused on data transformation and
    - Detection methods (hypothesis testing, Z-score, IQR)
    - Impact of outliers on analyses
    - Treating outliers (Winsorization, log transformation)
+   - Detecting outliers with clustering
 
 3. Distributions and Validation
    - Normal (Gaussian) distribution and other common distributions (exponential, uniform)
