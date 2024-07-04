@@ -2,82 +2,152 @@
 
 This directory contains courses and exercises focused on data transformation and manipulation techniques essential for machine learning and artificial intelligence. You will find detailed explanations on various data processing methods, practical implementations, and use cases in ML/AI.
 
-## Chapter 1: Introduction to Data Transformation and Manipulation
+## Chapter 1: Introduction to Data Manipulation and Transformation
 
-1. [General Introduction and Basic Concepts](./Chapter1_Introduction/01_Introduction.md)
-   - Importance of Data Transformation
-   - Overview of Data Manipulation Techniques
-   - Applications in Machine Learning and AI
+1. Importance of Data Manipulation
+   - Understanding and exploring data
+   - Preparing data for analysis
+   - Practical applications in various fields (finance, healthcare, marketing)
 
-## Chapter 2: Data Cleaning and Preparation
+2. Overview of Python Libraries
+   - Pandas: handling tabular data, DataFrame, Series
+   - NumPy: efficient numerical computations, multidimensional arrays
+   - Scipy: advanced mathematical functions, statistics, optimization
 
-1. [Introduction to DataFrames and Data Structures](./Chapter2_Data_Cleaning_Preparation/01_DataFrames_and_Data_Structures.md)
-   - Structure of a DataFrame
-   - Data Types and Conversions
-   - Handling Missing Values
-   - Example DataFrame with Pandas
-2. [Data Cleaning Techniques](./Chapter2_Data_Cleaning_Preparation/02_Data_Cleaning_Techniques.md)
-   - Identifying and Handling Outliers
-   - Dealing with Duplicate Data
-   - Data Normalization and Standardization
-3. [Feature Engineering](./Chapter2_Data_Cleaning_Preparation/03_Feature_Engineering.md)
-   - Creating New Features
-   - Transforming Existing Features
-   - Feature Scaling
-   - Encoding Categorical Variables
+3. Data File Formats
+   - CSV: reading, writing, manipulation
+   - Other common formats (Excel, JSON, SQL)
 
-## Chapter 3: Data Transformation Techniques
+## Chapter 2: Data Preparation and Cleaning
 
-1. [Reshaping and Pivoting](./Chapter3_Data_Transformation_Techniques/01_Reshaping_and_Pivoting.md)
-   - Reshaping DataFrames
-   - Pivot Tables
-   - Melting and Stacking
-2. [Merging and Joining DataFrames](./Chapter3_Data_Transformation_Techniques/02_Merging_and_Joining_DataFrames.md)
-   - Concatenation
-   - Merge Operations
-   - Joining DataFrames
-3. [Time Series Data Manipulation](./Chapter3_Data_Transformation_Techniques/03_Time_Series_Data_Manipulation.md)
-   - Time Series Basics
-   - Resampling and Frequency Conversion
-   - Rolling Window Calculations
+1. Identifying and Handling Missing Data
+   - Detecting missing data (isnull, notnull)
+   - Techniques for handling (imputation, deletion)
+   - Advanced imputation methods (KNN, MICE)
 
-## Chapter 4: Advanced Data Manipulation
+2. Handling Duplicates
+   - Detecting and removing duplicates (drop_duplicates)
 
-1. [Dimensionality Reduction Techniques](./Chapter4_Advanced_Data_Manipulation/01_Dimensionality_Reduction.md)
+3. Selecting and Grouping Data
+   - Selecting variables and individuals (loc, iloc)
+   - Grouping variables (groupby, pivot_table)
+   - Conditional filtering (query)
+
+4. Data Transformation and Normalization
+   - Normalization and standardization (MinMaxScaler, StandardScaler, RobustScaler)
+   - Encoding categorical variables (One-Hot Encoding, Label Encoding)
+   - Handling dates and times (datetime)
+
+## Chapter 3: Statistical Analysis and Outlier Management
+
+1. Objectives of Statistical Analysis
+   - Predicting behavior of unobserved individuals
+   - Explaining variability with other variables
+   - Distinguishing groups of individuals
+
+2. Detecting and Managing Outliers
+   - Detecting univariate and multivariate outliers
+   - Detection methods (hypothesis testing, Z-score, IQR)
+   - Impact of outliers on analyses
+   - Treating outliers (Winsorization, log transformation)
+
+3. Distributions and Validation
+   - Normal (Gaussian) distribution and other common distributions (exponential, uniform)
+   - Validating distributions (Shapiro-Wilk test, Kolmogorov-Smirnov, Anderson-Darling)
+
+4. Transformations for Normality
+   - PowerTransformer "yeo-johnson"
+   - Cox-box
+   - Log
+   - Sqrt**1/3
+
+## Chapter 4: Data Anonymization
+
+1. Types of Data to Anonymize
+   - Personal data (name, address)
+   - Sensitive data (age, biometric data)
+
+2. Anonymization Techniques
+   - Removing information
+   - Transforming information (grouping, less precision, generating random individuals)
+
+3. Anonymization Algorithms
+   - K-anonymity via bucketization and generalization
+   - Random algorithms (combining real and generated data)
+
+4. Hashing Names with hashlib
+   - Hashing techniques (MD5, SHA-256)
+
+## Chapter 5: Natural Language Processing (NLP)
+
+1. Importance and Applications of NLP
+   - Sentiment analysis
+   - Text classification
+   - Information extraction
+
+2. Preparing Unstructured Text Data
+   - Corpus cleaning (removing numbers, spelling correction, case harmonization)
+   - Removing punctuation, stopwords, numbers, URLs
+   - Converting to lowercase
+
+3. Text Preprocessing Techniques
+   - Tokenization
+   - Stemming
+   - Lemmatization
+   - Named entity recognition (NER)
+
+4. Text Vectorization
+   - TF-IDF method
+   - Other vectorization methods (Bag of Words, Word Embeddings: Word2Vec, GloVe)
+
+## Chapter 6: Audio Data Processing
+
+1. Introduction and Audio File Formats
+   - MP3, WAV, FLAC formats
+   - Differences between compressed and uncompressed formats
+
+2. Audio Data Analysis
+   - Time-domain vs frequency-domain analysis
+   - Spectrum and Cepstrum
+   - Fourier Transform (FFT) analysis
+
+3. Extracting Audio Features
+   - Zero Crossing Rate (ZCR)
+   - Spectral Centroid
+   - Mel-Frequency Cepstral Coefficients (MFCC)
+   - Spectral Rolloff
+   - Other features (Chroma Features, Tonnetz)
+
+## Chapter 7: Image Data Processing
+
+1. Introduction and Image File Formats
+   - JPEG, PNG, TIFF formats
+   - Differences between compressed and uncompressed formats
+
+2. Image Preprocessing
+   - Resizing and cropping
+   - Converting to grayscale
+   - Pixel normalization
+
+3. Image Transformation Techniques
+   - Data augmentation (rotation, translation, flip, zoom)
+   - Filtering and denoising (smoothing filters, edge detection)
+
+4. Extracting Image Features
+   - Histogram of Oriented Gradients (HOG)
+   - Keypoint descriptors (SIFT, SURF)
+   - Convolutional Neural Networks (CNN)
+
+## Chapter 8: Advanced Data Transformation Techniques
+
+1. Feature Engineering
+   - Creating new variables
+   - Transforming existing variables
+
+2. Dimensionality Reduction
    - Principal Component Analysis (PCA)
-   - Singular Value Decomposition (SVD)
+   - Linear Discriminant Analysis (LDA)
    - t-Distributed Stochastic Neighbor Embedding (t-SNE)
-2. [Text Data Processing](./Chapter4_Advanced_Data_Manipulation/02_Text_Data_Processing.md)
-   - Text Preprocessing
-   - Tokenization and Vectorization
-   - Natural Language Processing (NLP) Techniques
-3. [Image Data Processing](./Chapter4_Advanced_Data_Manipulation/03_Image_Data_Processing.md)
-   - Image Preprocessing Techniques
-   - Augmentation and Transformation
-   - Feature Extraction from Images
-4. [Sound Data Processing](./Chapter4_Advanced_Data_Manipulation/04_Sound_Data_Processing.ipynb)
-
-## Chapter 5: Data Security and Anonymization
-
-1. [Data Security Techniques](./Chapter5_Data_Security_Anonymization/01_Data_Security_Techniques.md)
-   - Encryption Methods
-   - Access Control and Authentication
-   - Secure Data Storage
-2. [Data Anonymization Techniques](./Chapter5_Data_Security_Anonymization/02_Data_Anonymization_Techniques.md)
-   - Pseudonymization
-   - Data Masking
-   - Differential Privacy
-
-## Chapter 6: Data Quality Evaluation
-
-1. [Evaluating Data Quality](./Chapter6_Data_Quality_Evaluation/01_Evaluating_Data_Quality.md)
-   - Data Quality Metrics
-   - Data Profiling
-   - Handling Inconsistencies
-2. [Improving Data Quality](./Chapter6_Data_Quality_Evaluation/02_Improving_Data_Quality.md)
-   - Data Cleansing Techniques
-   - Data Enrichment
-   - Ongoing Data Quality Monitoring
 
 ---
 
