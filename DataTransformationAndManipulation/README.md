@@ -84,38 +84,38 @@ This directory contains courses and exercises focused on data transformation and
 
 ## Chapter 5: Natural Language Processing (NLP)
 
-1. Importance and Applications of NLP
+1. [Importance and Applications of NLP](./Chapter5_NLP/01_Importance_and_Applications_of_NLP.md)
    - Sentiment analysis
    - Text classification
    - Information extraction
 
-2. Preparing Unstructured Text Data
+2. [Preparing Unstructured Text Data](./Chapter5_NLP/02_Preparing_Unstructured_Text_Data.ipynb)
    - Corpus cleaning (removing numbers, spelling correction, case harmonization)
    - Removing punctuation, stopwords, numbers, URLs
    - Converting to lowercase
 
-3. Text Preprocessing Techniques
+3. [Text Preprocessing Techniques](./Chapter5_NLP/03_Text_Preprocessing_Techniques.ipynb)
    - Tokenization
    - Stemming
    - Lemmatization
    - Named entity recognition (NER)
 
-4. Text Vectorization
+4. [Text Vectorization](./Chapter5_NLP/04_Text_Vectorization.ipynb)
    - TF-IDF method
    - Other vectorization methods (Bag of Words, Word Embeddings: Word2Vec, GloVe)
 
 ## Chapter 6: Audio Data Processing
 
-1. Introduction and Audio File Formats
+1. [Introduction and Audio File Formats](./Chapter6_Audio_Data_Processing/01_Introduction.md)
    - MP3, WAV, FLAC formats
    - Differences between compressed and uncompressed formats
 
-2. Audio Data Analysis
+2. [Audio Data Analysis](./Chapter6_Audio_Data_Processing/02_Audio_Data_Analysis.ipynb)
    - Time-domain vs frequency-domain analysis
    - Spectrum and Cepstrum
    - Fourier Transform (FFT) analysis
 
-3. Extracting Audio Features
+3. [Extracting Audio Features](./Chapter6_Audio_Data_Processing/03_Extracting_Audio_Features.ipynb)
    - Zero Crossing Rate (ZCR)
    - Spectral Centroid
    - Mel-Frequency Cepstral Coefficients (MFCC)
