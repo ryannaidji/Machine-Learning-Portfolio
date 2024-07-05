@@ -124,34 +124,24 @@ This directory contains courses and exercises focused on data transformation and
 
 ## Chapter 7: Image Data Processing
 
-1. Introduction and Image File Formats
+1. [Introduction and Image File Formats](./Chapter7_Image_Data_Processing/01_Introduction.md)
    - JPEG, PNG, TIFF formats
    - Differences between compressed and uncompressed formats
 
-2. Image Preprocessing
+2. [Image Preprocessing](./Chapter7_Image_Data_Processing/02_Image_Preprocessing.ipynb)
    - Resizing and cropping
    - Converting to grayscale
    - Pixel normalization
 
-3. Image Transformation Techniques
+3. [Image Transformation Techniques](./Chapter7_Image_Data_Processing/03_Image_Transformation_Techniques.ipynb)
    - Data augmentation (rotation, translation, flip, zoom)
-   - Filtering and denoising (smoothing filters, edge detection)
-
-4. Extracting Image Features
-   - Histogram of Oriented Gradients (HOG)
-   - Keypoint descriptors (SIFT, SURF)
-   - Convolutional Neural Networks (CNN)
+   - Filtering and denoising (smoothing filters, edge detection, masking)
 
 ## Chapter 8: Advanced Data Transformation Techniques
 
-1. Feature Engineering
+1. [Feature Engineering](./Chapter8_Advanced_Data_Transformation_Techniques/01_Feature_Engineering.ipynb)
    - Creating new variables
    - Transforming existing variables
-
-2. Dimensionality Reduction
-   - Principal Component Analysis (PCA)
-   - Linear Discriminant Analysis (LDA)
-   - t-Distributed Stochastic Neighbor Embedding (t-SNE)
 
 ---
 
