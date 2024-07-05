@@ -40,7 +40,7 @@ This directory covers exploratory data analysis, with examples and practical exe
 
 [See the Exploratory Data Analysis directory](./ExploratoryDataAnalysis)
 
-## 4. Data Transformation and Manipulation ⏳
+## 4. Data Transformation and Manipulation ✅
 
 This directory explores data transformation and manipulation techniques.
 
