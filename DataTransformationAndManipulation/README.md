@@ -2,7 +2,7 @@
 
 This directory contains courses and exercises focused on data transformation and manipulation techniques essential for machine learning and artificial intelligence. You will find detailed explanations on various data processing methods, practical implementations, and use cases in ML/AI.
 
-## Chapter 1: Introduction to Data Manipulation and Transformation
+## Chapter 1: Introduction to Data Manipulation and Transformation ✅
 
 1. [Importance of Data Manipulation](./Chapter1_Introduction/01_Introductions.md)
    - Understanding and exploring data
@@ -18,7 +18,7 @@ This directory contains courses and exercises focused on data transformation and
    - CSV: reading, writing, manipulation
    - Other common formats (Excel, JSON, SQL)
 
-## Chapter 2: Data Preparation and Cleaning
+## Chapter 2: Data Preparation and Cleaning ✅
 
 1. [Identifying and Handling Missing Data](./Chapter2_Data_Preparation_and_Cleaning/01_Identifying_and_Handling_Missing_Data.ipynb)
    - Detecting missing data (isnull, notnull)
@@ -38,7 +38,7 @@ This directory contains courses and exercises focused on data transformation and
    - Encoding categorical variables (One-Hot Encoding, Label Encoding)
    - Handling dates and times (datetime)
 
-## Chapter 3: Statistical Analysis and Outlier Management
+## Chapter 3: Statistical Analysis and Outlier Management ✅
 
 1. [Objectives of Statistical Analysis](./Chapter3_Statistical_Analysis_and_Outlier_Management/01_Objectives_of_Statistical_Analysis.ipynb)
    - Predicting behavior of unobserved individuals
@@ -63,7 +63,7 @@ This directory contains courses and exercises focused on data transformation and
    - Log
    - Cube Root
 
-## Chapter 4: Data Anonymization
+## Chapter 4: Data Anonymization ✅
 
 1. [Types of Data to Anonymize](./Chapter4_Data_Anonymization/01_Types_of_Data_to_Anonymize.md)
    - Personal data
@@ -82,7 +82,7 @@ This directory contains courses and exercises focused on data transformation and
    - Synthetic Data Generation
    - Differential Privacy
 
-## Chapter 5: Natural Language Processing (NLP)
+## Chapter 5: Natural Language Processing (NLP) ✅
 
 1. [Importance and Applications of NLP](./Chapter5_NLP/01_Importance_and_Applications_of_NLP.md)
    - Sentiment analysis
@@ -104,7 +104,7 @@ This directory contains courses and exercises focused on data transformation and
    - TF-IDF method
    - Other vectorization methods (Bag of Words, Word Embeddings: Word2Vec, GloVe)
 
-## Chapter 6: Audio Data Processing
+## Chapter 6: Audio Data Processing ✅
 
 1. [Introduction and Audio File Formats](./Chapter6_Audio_Data_Processing/01_Introduction.md)
    - MP3, WAV, FLAC formats
@@ -122,7 +122,7 @@ This directory contains courses and exercises focused on data transformation and
    - Spectral Rolloff
    - Other features (Chroma Features, Tonnetz)
 
-## Chapter 7: Image Data Processing
+## Chapter 7: Image Data Processing ✅
 
 1. [Introduction and Image File Formats](./Chapter7_Image_Data_Processing/01_Introduction.md)
    - JPEG, PNG, TIFF formats
@@ -137,7 +137,7 @@ This directory contains courses and exercises focused on data transformation and
    - Data augmentation (rotation, translation, flip, zoom)
    - Filtering and denoising (smoothing filters, edge detection, masking)
 
-## Chapter 8: Advanced Data Transformation Techniques
+## Chapter 8: Advanced Data Transformation Techniques ✅
 
 1. [Feature Engineering](./Chapter8_Advanced_Data_Transformation_Techniques/01_Feature_Engineering.ipynb)
    - Creating new variables
