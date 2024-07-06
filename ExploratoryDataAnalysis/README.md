@@ -19,11 +19,11 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 3: Data Preparation
 
-1. [Data Cleaning and Preparation](./Chapter3_Data_Preparation/01_Data_Cleaning_and_Preparation.md)
-   - Data Cleaning
-   - Outliers
-   - Missing Data
-   - Feature Extraction
+1. [Data Cleaning and Preparation](./Chapter3_Data_Preparation/01_Data_Cleaning_and_Preparation.ipynb)
+   - Data preprocessing
+   - Data cleaning
+   - Normalization & Standardization
+   - Data encoding
 
 ## Chapter 4: Descriptive and Inferential Statistics
 
