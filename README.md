@@ -34,7 +34,7 @@ This directory covers techniques and methods for data collection and storage.
 
 [See the Data Collection and Storage directory](./DataCollectionAndStorage)
 
-## 3. Exploratory Data Analysis ⏳
+## 3. Exploratory Data Analysis ✅
 
 This directory covers exploratory data analysis, with examples and practical exercises.
 
