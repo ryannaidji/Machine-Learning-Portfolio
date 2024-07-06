@@ -4,7 +4,7 @@ This chapter covers the essential steps for preparing data for analysis, includi
 
 ## Contents
 
-1. [Data Cleaning and Preparation](01_Data_Cleaning_and_Preparation.md)
+1. [Data Cleaning and Preparation](01_Data_Cleaning_and_Preparation.ipynb)
    - Data cleaning
    - Data preprocessing
    - Normalization & Standardization
