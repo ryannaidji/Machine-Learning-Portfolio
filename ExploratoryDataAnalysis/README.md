@@ -17,19 +17,13 @@ This directory contains courses and exercises introducing various concepts and t
    - Evolution Visualization
    - Mapping Visualization
 
-## Chapter 3: Data Preparation
+## Chapter 3: Data Preparation ✅
 
 1. [Data Cleaning and Preparation](./Chapter3_Data_Preparation/01_Data_Cleaning_and_Preparation.ipynb)
    - Data cleaning
    - Data preprocessing
    - Normalization & Standardization
    - Data encoding
-
-## Chapter 4: Descriptive and Inferential Statistics
-
-1. [Descriptive and Inferential Statistics](./Chapter4_Statistics/01_Descriptive_and_Inferential_Statistics.md)
-   - Data Description
-   - Statistical Tests
 
 ---
 
