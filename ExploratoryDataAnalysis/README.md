@@ -20,8 +20,8 @@ This directory contains courses and exercises introducing various concepts and t
 ## Chapter 3: Data Preparation
 
 1. [Data Cleaning and Preparation](./Chapter3_Data_Preparation/01_Data_Cleaning_and_Preparation.ipynb)
-   - Data preprocessing
    - Data cleaning
+   - Data preprocessing
    - Normalization & Standardization
    - Data encoding
 
