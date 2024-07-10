@@ -9,18 +9,17 @@ I am a student in machine learning (ML) and artificial intelligence (AI) at Miam
 ## Table of Contents 📖
 
 1. [Introduction to the Job Function](#introduction-to-the-job-function)
-2. [Data Collection and Storage](#data-collection-and-storage)
-3. [Exploratory Data Analysis](#exploratory-data-analysis)
-4. [Data Transformation and Manipulation](#data-transformation-and-manipulation)
-5. [Supervised Learning Algorithms](#supervised-learning-algorithms)
-6. [Unsupervised Learning Algorithms](#unsupervised-learning-algorithms)
-7. [Reinforcement Learning Algorithms](#reinforcement-learning-algorithms)
-8. [Deep Learning Algorithms](#deep-learning-algorithms)
-9. [Setting up an AI Ecosystem](#setting-up-an-ai-ecosystem)
-10. [Professional Interaction in AI](#professional-interaction-in-ai)
-11. [Preparing the AI Solution for Production Launch](#preparing-the-ai-solution-for-production-launch)
-12. [Synthesis Project](#synthesis-project)
-13. [Final Project](#final-project)
+2. [Exploratory Data Analysis](#exploratory-data-analysis)
+3. [Data Transformation and Manipulation](#data-transformation-and-manipulation)
+4. [Supervised Learning Algorithms](#supervised-learning-algorithms)
+5. [Unsupervised Learning Algorithms](#unsupervised-learning-algorithms)
+6. [Reinforcement Learning Algorithms](#reinforcement-learning-algorithms)
+7. [Deep Learning Algorithms](#deep-learning-algorithms)
+8. [Setting up an AI Ecosystem](#setting-up-an-ai-ecosystem)
+9. [Professional Interaction in AI](#professional-interaction-in-ai)
+10. [Preparing the AI Solution for Production Launch](#preparing-the-ai-solution-for-production-launch)
+11. [Synthesis Project](#synthesis-project)
+12. [Final Project](#final-project)
 
 ## 1. Introduction to the Job Function ✅
 
@@ -28,73 +27,67 @@ This directory contains courses and exercises that introduce the different funct
 
 [See the Introduction to the Job Function directory](./IntroductionToTheJobFunction)
 
-## 2. Data Collection and Storage ⏳
-
-This directory covers techniques and methods for data collection and storage.
-
-[See the Data Collection and Storage directory](./DataCollectionAndStorage)
-
-## 3. Exploratory Data Analysis ✅
+## 2. Exploratory Data Analysis ✅
 
 This directory covers exploratory data analysis, with examples and practical exercises.
 
 [See the Exploratory Data Analysis directory](./ExploratoryDataAnalysis)
 
-## 4. Data Transformation and Manipulation ✅
+## 3. Data Transformation and Manipulation ✅
 
 This directory explores data transformation and manipulation techniques.
 
 [See the Data Transformation and Manipulation directory](./DataTransformationAndManipulation)
 
-## 5. Supervised Learning Algorithms ✅
+## 4. Supervised Learning Algorithms ✅
 
 This directory contains work on supervised learning, including courses, practical exercises, and projects.
 
 [See the Supervised Learning Algorithms directory](./SupervisedLearningAlgorithms)
 
-## 6. Unsupervised Learning Algorithms ✅
+## 5. Unsupervised Learning Algorithms ✅
 
 This directory covers unsupervised learning with examples and practical projects.
 
 [See the Unsupervised Learning Algorithms directory](./UnsupervisedLearningAlgorithms)
 
-## 7. Reinforcement Learning Algorithms ✅
+## 6. Reinforcement Learning Algorithms ✅
 
 Here you will find work on reinforcement learning, including courses and projects.
 
 [See the Reinforcement Learning Algorithms directory](./ReinforcementLearningAlgorithms)
 
-## 8. Deep Learning Algorithms 🔜
+## 7. Deep Learning Algorithms 🔜
 
 Discover work on deep learning, including courses and advanced projects.
 
 [See the Deep Learning Algorithms directory](./DeepLearningAlgorithms)
 
-## 9. Setting up an AI Ecosystem ✅
+## 8. Setting up an AI Ecosystem ✅
 
 This directory explores the ecosystem of tools and libraries used in ML/AI.
 
 [See the Setting up an AI Ecosystem directory](./SettingUpAnAIEcosystem)
 
-## 10. Professional Interaction in AI 🔜
+## 9. Professional Interaction in AI 🔜
 
 This directory contains resources and exercises on professional interactions in the field of AI.
 
 [See the Professional Interaction in AI directory](./ProfessionalInteractionInAI)
 
-## 11. Preparing the AI Solution for Production Launch 🔜
+## 10. Preparing the AI Solution for Production Launch 🔜
 
 This directory covers the steps and techniques to prepare an AI solution for production launch.
 
 [See the Preparing the AI Solution for Production Launch directory](./PreparingTheAISolutionForProductionLaunch)
 
-## 12. Synthesis Project 🔜
+## 11. Synthesis Project 🔜
 
 This directory contains a synthesis project integrating several techniques and concepts learned during my studies.
 
 [See the Synthesis Project directory](./SynthesisProject)
 
-## 13. Final Project 🔜
+## 12. Final Project 🔜
 
 This directory contains the final project of my studies in ML/AI.
 
