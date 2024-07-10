@@ -28,7 +28,7 @@ This directory contains courses and exercises on setting up an AI ecosystem. You
    - TensorFlow
    - CPU vs GPU vs TPU
    - CUDA and cuDNN
-2. [Project with Docker Compose, Streamlit, FastAPI, MLflow](./Chapter3_AI_Frameworks_Tools/02_AI_Projects_with_Docker_and_Tools.md)
+2. [Project with Docker Compose, Streamlit, FastAPI, MLflow](./Chapter3_AI_Frameworks_Tools/Project_Star_Classification/)
    - Docker Compose
    - Streamlit
    - FastAPI
