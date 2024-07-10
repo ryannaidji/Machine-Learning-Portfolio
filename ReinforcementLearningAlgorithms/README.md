@@ -17,50 +17,43 @@ This directory contains courses and exercises introducing various concepts and t
    - Discount Factor
    - MDP Framework
 
-## Chapter 3: Policy
+## Chapter 3: Policy ✅
 
 1. [Policy in Reinforcement Learning](./Chapter3_Policy/01_Policy.md)
    - Definition of Policy
    - Deterministic and Stochastic Policies
    - Evaluation of Policy
 
-## Chapter 4: Dynamic Programming
+## Chapter 4: Dynamic Programming ✅
 
 1. [Dynamic Programming](./Chapter4_Dynamic_Programming/01_Dynamic_Programming.md)
    - Principles of Dynamic Programming
    - Bellman Equations
-   - Value Iteration
 
-## Chapter 5: Policy Iteration and Value Iteration
+## Chapter 5: Policy Iteration and Value Iteration ✅
 
-1. [Policy Iteration](./Chapter5_Policy_Iteration_and_Value_Iteration/01_Policy_Iteration.md)
+1. [Policy Iteration](./Chapter5_Policy_Iteration_and_Value_Iteration/01_Policy_Iteration.ipynb)
    - Policy Evaluation
    - Policy Improvement
    - Convergence of Policy Iteration
-2. [Value Iteration](./Chapter5_Policy_Iteration_and_Value_Iteration/02_Value_Iteration.md)
+2. [Value Iteration](./Chapter5_Policy_Iteration_and_Value_Iteration/02_Value_Iteration.ipynb)
    - Principles of Value Iteration
    - Convergence of Value Iteration
 
-## Chapter 6: Monte Carlo Methods
+## Chapter 6: Monte Carlo Methods ✅
 
-1. [Monte Carlo Methods](./Chapter6_Monte_Carlo/01_Monte_Carlo.md)
+1. [Monte Carlo Methods](./Chapter6_Monte_Carlo/01_Monte_Carlo.ipynb)
    - Monte Carlo Prediction
    - Monte Carlo Control
+   - Epsilon-greedy
    - Off-policy and On-policy Learning
 
-## Chapter 7: Temporal Difference (TD) Learning
+## Chapter 7: Temporal Difference (TD) Learning ✅
 
 1. [Temporal Difference Learning](./Chapter7_Temporal_Difference/01_Temporal_Difference.md)
    - TD Prediction
    - TD Control
    - Q-Learning and SARSA
-
-## Chapter 8: Practical Reinforcement Learning
-
-1. [Practical Reinforcement Learning](./Chapter8_Practical_RL/01_Practical_RL.md)
-   - Implementing RL Algorithms
-   - Case Studies and Real-world Examples
-   - Tools and Libraries for RL
 
 ---
 
