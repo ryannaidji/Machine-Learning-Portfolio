@@ -2,14 +2,14 @@
 
 This directory contains courses and exercises introducing various concepts and techniques of reinforcement learning. You will find information on fundamental concepts, algorithms, and practical applications of reinforcement learning.
 
-## Chapter 1: Introduction to Reinforcement Learning
+## Chapter 1: Introduction to Reinforcement Learning ✅
 
 1. [General Introduction to Reinforcement Learning](./Chapter1_Introduction/01_Introduction.md)
    - Definition and Key Concepts
    - Differences between Supervised, Unsupervised, and Reinforcement Learning
    - Applications of Reinforcement Learning
 
-## Chapter 2: Markov Decision Process (MDP)
+## Chapter 2: Markov Decision Process (MDP) ✅
 
 1. [Markov Decision Process](./Chapter2_Markov_Decision_Process/01_MDP.md)
    - States, Actions, and Rewards
