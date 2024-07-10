@@ -11,7 +11,7 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 2: Markov Decision Process (MDP) ✅
 
-1. [Markov Decision Process](./Chapter2_Markov_Decision_Process/01_MDP.md)
+1. [Markov Decision Process](./Chapter2_Markov_Decision_Process/01_MDP.ipynb)
    - States, Actions, and Rewards
    - Transition Probabilities
    - Discount Factor
