@@ -70,7 +70,7 @@ Discover work on deep learning, including courses and advanced projects.
 
 [See the Deep Learning Algorithms directory](./DeepLearningAlgorithms)
 
-## 9. Setting up an AI Ecosystem ⏳
+## 9. Setting up an AI Ecosystem ✅
 
 This directory explores the ecosystem of tools and libraries used in ML/AI.
 
