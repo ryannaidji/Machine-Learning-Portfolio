@@ -2,6 +2,10 @@
 
 This directory contains courses and exercises on setting up an AI ecosystem. You will find information on hardware setup, virtualization technologies, and AI frameworks and tools.
 
+> [!NOTE]
+>
+> This course is more focused on setting up an AI ecosystem. We will concentrate on a course project for the final chapter.
+
 ## Chapter 1: Setting Up a Hardware Environment for AI
 
 1. [Installation and Introduction to Linux Operating System](./Chapter1_Hardware_Environment/01_Linux_Installation_and_Introduction.md)
