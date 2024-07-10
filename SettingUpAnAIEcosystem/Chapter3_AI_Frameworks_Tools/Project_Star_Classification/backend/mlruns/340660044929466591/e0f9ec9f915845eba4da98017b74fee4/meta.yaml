@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ryann/OneDrive/Desktop/AI/Mise en place d'un écosystème
+  d'IA/Lab3_test/backend/model_management/../mlruns/340660044929466591/e0f9ec9f915845eba4da98017b74fee4/artifacts
+end_time: 1718174832106
+entry_point_name: ''
+experiment_id: '340660044929466591'
+lifecycle_stage: active
+run_id: e0f9ec9f915845eba4da98017b74fee4
+run_name: grandiose-cub-387
+run_uuid: e0f9ec9f915845eba4da98017b74fee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718174829354
+status: 3
+tags: []
+user_id: ryann
