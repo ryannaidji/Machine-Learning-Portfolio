@@ -24,7 +24,7 @@ This directory contains courses and exercises on setting up an AI ecosystem. You
 
 ## Chapter 3: AI Frameworks and Tools ✅
 
-1. [Introduction to AI Frameworks and Tools](./Chapter3_AI_Frameworks_Tools/01_Introduction_to_AI_Framework_Tools.md)
+1. [Introduction to AI Frameworks and Tools](./Chapter3_AI_Frameworks_Tools/01_Introduction_to_AI_Framework_and_Tools.md)
    - TensorFlow
    - CPU vs GPU vs TPU
    - CUDA and cuDNN
