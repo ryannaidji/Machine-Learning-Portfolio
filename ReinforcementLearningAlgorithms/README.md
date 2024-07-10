@@ -50,7 +50,7 @@ This directory contains courses and exercises introducing various concepts and t
 
 ## Chapter 7: Temporal Difference (TD) Learning ✅
 
-1. [Temporal Difference Learning](./Chapter7_Temporal_Difference/01_Temporal_Difference.md)
+1. [Temporal Difference Learning](./Chapter7_Temporal_Difference/01_Temporal_Difference.ipynb)
    - TD Prediction
    - TD Control
    - Q-Learning and SARSA
